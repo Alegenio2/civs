@@ -4,7 +4,7 @@
       "especialidad": "Especialidad 1",
       "unidadUnica": "Unidad Única 1",
       "tecnologiasUnicas": ["Tecnología 1", "Tecnología 2"],
-      "imagen": "civilizacion1.jpg"
+      "imagen": "https://aoe2cm.net/images/civemblems/aztecs.png"
     },
     {
       "nombre": "Godoz",
