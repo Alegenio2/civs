@@ -1,0 +1,17 @@
+[
+    {
+      "nombre": "Aztecas",
+      "especialidad": "Especialidad 1",
+      "unidadUnica": "Unidad Única 1",
+      "tecnologiasUnicas": ["Tecnología 1", "Tecnología 2"],
+      "imagen": "civilizacion1.jpg"
+    },
+    {
+      "nombre": "Godoz",
+      "especialidad": "Especialidad 2",
+      "unidadUnica": "Unidad Única 2",
+      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
+      "imagen": "civilizacion2.jpg"
+    }
+  ]
+  
