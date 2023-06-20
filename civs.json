@@ -12,10 +12,12 @@
     {
       "id": "Bengalis",
       "nombre": "Bengalis",
-      "especialidad": "Especialidad 2",
-      "unidadUnica": ["Unidad Única 2"],
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+      "especialidad": "Civilización naval y de elefantes",
+      "unidadUnica": ["Ratha"],
+       "bonus": ["Las unidades en elefante reciben un 25 % menos de daño adicional y son más resistentes a la conversión","Los centros urbanos generan 2 aldeanos cuando se avanza a la siguiente edad","Los barcos regeneran 15 PR por minuto","Los monjes obtienen +3/+3P de armadura"],
+      "tecnologiasUnicas": ["Paiks: Las unidades rathas y de elefantes atacan un 20 % más rápido.", "Mahāyāna: Los aldeanos ocupan un 10 % menos de espacio de población."],
+       "bonoEquipo": ["Las unidades de comercio proporcionan un 10 % de comida además de oro"],
+      "imagen": "https://aoe2cm.net/images/civemblems/bengalis.png"
     },
     {
       "id": "Berebers",
