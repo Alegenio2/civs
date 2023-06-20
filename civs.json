@@ -12,6 +12,13 @@
       "unidadUnica": "Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
       "imagen": "civilizacion2.jpg"
+    },
+    {
+      "nombre": "Burgundians",
+      "especialidad": "Especialidad 2",
+      "unidadUnica": "Unidad Única 2",
+      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
+      "imagen": "civilizacion2.jpg"
     }
   ]
   
