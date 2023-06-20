@@ -53,8 +53,7 @@
       "id": "Burgundians",
       "nombre": "Burgundians",
       "especialidad": "Civilización de caballería",
-     "bonus": ["Mejoras económicas disponibles una edad antes y por un 40 % menos de comida", "Las tecnologías de los establos cuestan un 50 % menos", "
-Mejora a caballeros disponible en la Edad de los Castillos", "Unidades de pólvora: 25 % más de ataque" ],
+     "bonus": ["Mejoras económicas disponibles una edad antes y por un 40 % menos de comida", "Las tecnologías de los establos cuestan un 50 % menos", "Mejora a caballeros disponible en la Edad de los Castillos", "Unidades de pólvora: 25 % más de ataque"],
       "unidadUnica": ["Costiller","Milicia flamenca"],
       "tecnologiasUnicas": ["Viñedos de Borgoña: Además de comida, los agricultores generan oro gradualmente", "Revolución flamenca: Mejora a todos los aldeanos existentes a milicia flamenca y permite crear milicias flamencas en el centro urbano."],
        "bonoEquipo": ["Las reliquias generan oro y alimento"],
