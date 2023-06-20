@@ -57,7 +57,7 @@
       "unidadUnica": ["Costiller","Milicia flamenca"],
       "tecnologiasUnicas": ["Viñedos de Borgoña: Además de comida, los agricultores generan oro gradualmente", "Revolución flamenca: Mejora a todos los aldeanos existentes a milicia flamenca y permite crear milicias flamencas en el centro urbano."],
        "bonoEquipo": ["Las reliquias generan oro y alimento"],
-       "imagen": "civilizacion2.jpg"
+       "imagen": "https://aoe2cm.net/images/civemblems/burgundians.png"
     },
      {
       "id": "Celts",
