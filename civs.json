@@ -2,9 +2,11 @@
     {
       "id": "Aztecs",
       "nombre": "Aztecas",
-      "especialidad": "Especialidad 1",
-      "unidadUnica": "Unidad Única 1",
-      "tecnologiasUnicas": ["Tecnología 1", "Tecnología 2"],
+      "especialidad": "Civilización de infantería y monjes",
+      "unidadUnica": "Guerrero jaguar",
+      "bonus": ["Aldeanos cargan 3 unidades más","Unidades militares se crean un 11 % más rápido". "Monjes obtienen +5 ptos. resist. por cada tecnología desarrollada en el monasterio", "Comienzan con +50 unidades de oro"],  
+      "tecnologiasUnicas": ["Átlatl: Los hostigadores obtienen +1 de ataque y +1 de alcance", "Guerras Floridas: La infantería obtiene +4 de ataque"],
+      "bonoEquipo": ["Reliquias generan un 33 % más de oro"],
       "imagen": "https://aoe2cm.net/images/civemblems/aztecs.png"
     },
     {
@@ -50,10 +52,13 @@
      {
       "id": "Burgundians",
       "nombre": "Burgundians",
-      "especialidad": "Especialidad 2",
-      "unidadUnica": "Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+      "especialidad": "Civilización de caballería",
+     "bonus": ["Mejoras económicas disponibles una edad antes y por un 40 % menos de comida", "Las tecnologías de los establos cuestan un 50 % menos", "
+Mejora a caballeros disponible en la Edad de los Castillos", "Unidades de pólvora: 25 % más de ataque" ],
+      "unidadUnica": ["Costiller","Milicia flamenca"],
+      "tecnologiasUnicas": ["Viñedos de Borgoña: Además de comida, los agricultores generan oro gradualmente", "Revolución flamenca: Mejora a todos los aldeanos existentes a milicia flamenca y permite crear milicias flamencas en el centro urbano."],
+       "bonoEquipo": ["Las reliquias generan oro y alimento"],
+       "imagen": "civilizacion2.jpg"
     },
      {
       "id": "Celts",
