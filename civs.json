@@ -80,12 +80,13 @@
      {
       "id": "Dravidians",
       "nombre": "Dravidicos",
-      "especialidad": "Civilización de caballería",
-     "bonus": ["Mejoras económicas disponibles una edad antes y por un 40 % menos de comida", "Las tecnologías de los establos cuestan un 50 % menos", "Mejora a caballeros disponible en la Edad de los Castillos", "Unidades de pólvora: 25 % más de ataque"],
-      "unidadUnica": ["Costiller","Milicia flamenca"],
-      "tecnologiasUnicas": ["Viñedos de Borgoña: Además de comida, los agricultores generan oro gradualmente", "Revolución flamenca: Mejora a todos los aldeanos existentes a milicia flamenca y permite crear milicias flamencas en el centro urbano."],
-       "bonoEquipo": ["Las reliquias generan oro y alimento"],
-       "imagen": "https://aoe2cm.net/images/civemblems/dravidians.png"
+      "especialidad": "Civilización naval y de infantería",
+     "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],
+      "unidadUnica": ["Espadachín urumi","Thirisadai"],
+      "tecnologiasUnicas": ["Cuerpo de médicos: Las unidades en elefante se regeneran 20 PR por minuto.", "Acero wootz: Los ataques de infantería y caballería ignoran la armadura."],
+      "bonoEquipo": ["Cada muelle proporciona +5 de población"],
+      "imagen": "https://aoe2cm.net/images/civemblems/dravidians.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"] 
     }
   ]
   
