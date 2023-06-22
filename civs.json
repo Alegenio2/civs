@@ -22,34 +22,46 @@
     {
       "id": "Berebers",
       "nombre": "Bereberes",
-      "especialidad": "Especialidad 2",
-      "unidadUnica": "Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+       "especialidad": "Civilización naval y de caballería",
+      "bonus": ["Aldeanos se mueven un 10 % más rápido", "Unidades creadas en establos cuestan un -15 % en Ed. Castillos, -20 % en Ed. Imperial", "Barcos se mueven un 10 % más rápido"],  
+      "unidadUnica": ["Arquero en camello", "Escaramuzador zenete"],
+      "tecnologiasUnicas": ["Alcazabas: Los castillos del equipo trabajan un 25 % más rápido.", "Camellos magrebíes: Las unidades montadas a camello se regeneran."],
+       "bonoEquipo": ["Escaramuzador zenete disponible en galería de tiro con arco a partir de la Edad de los Castillos"],  
+      "imagen": "https://aoe2cm.net/images/civemblems/berbers.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/CamelArcher.59699318.png","https://app.aoe2companion.com/static/media/Genitour.665292c8.png"]   
     },
     {
       "id": "Bohemians",
       "nombre": "Bohemios",
       "especialidad": "Especialidad 2",
+      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
       "unidadUnica": "Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+      "imagen": "civilizacion2.jpg",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
     },
      {
       "id": "Britons",
       "nombre": "Britanos",
-      "especialidad": "Especialidad 2",
+       "especialidad": "Especialidad 2",
+      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
       "unidadUnica": "Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+      "imagen": "civilizacion2.jpg",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
     },
      {
       "id": "Bulgarians",
       "nombre": "Bulgaros",
       "especialidad": "Especialidad 2",
+      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
       "unidadUnica": "Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+      "imagen": "civilizacion2.jpg",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
     },
      {
       "id": "Burgundians",
@@ -64,18 +76,24 @@
      {
       "id": "Celts",
       "nombre": "Celtas",
-      "especialidad": "Especialidad 2",
+       "especialidad": "Especialidad 2",
+      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
       "unidadUnica": "Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+      "imagen": "civilizacion2.jpg",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
     },
     {
       "id": "Chinese",
       "nombre": "Chinos",
       "especialidad": "Especialidad 2",
+      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
       "unidadUnica": "Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-      "imagen": "civilizacion2.jpg"
+       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+      "imagen": "civilizacion2.jpg",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
     },
      {
       "id": "Dravidians",
