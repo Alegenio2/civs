@@ -7,7 +7,8 @@
       "bonus": ["Aldeanos cargan 3 unidades más","Unidades militares se crean un 11 % más rápido", "Monjes obtienen +5 ptos. resist. por cada tecnología desarrollada en el monasterio", "Comienzan con +50 unidades de oro"],  
       "tecnologiasUnicas": ["Átlatl: Los hostigadores obtienen +1 de ataque y +1 de alcance", "Guerras Floridas: La infantería obtiene +4 de ataque"],
       "bonoEquipo": ["Reliquias generan un 33 % más de oro"],
-      "imagen": "https://aoe2cm.net/images/civemblems/aztecs.png"
+      "imagen": "https://app.aoe2companion.com/static/media/aztecs.361df94f.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/JaguarWarrior.f5940775.png"] 
     },
     {
       "id": "Bengalis",
@@ -17,7 +18,8 @@
        "bonus": ["Las unidades en elefante reciben un 25 % menos de daño adicional y son más resistentes a la conversión","Los centros urbanos generan 2 aldeanos cuando se avanza a la siguiente edad","Los barcos regeneran 15 PR por minuto","Los monjes obtienen +3/+3P de armadura"],
       "tecnologiasUnicas": ["Paiks: Las unidades rathas y de elefantes atacan un 20 % más rápido.", "Mahāyāna: Los aldeanos ocupan un 10 % menos de espacio de población."],
        "bonoEquipo": ["Las unidades de comercio proporcionan un 10 % de comida además de oro"],
-      "imagen": "https://aoe2cm.net/images/civemblems/bengalis.png"
+      "imagen": "https://app.aoe2companion.com/static/media/bengalis.d49783c6.png",
+     "imgunidad": ["https://app.aoe2companion.com/static/media/Ratha.2adc7460.png"] 
     },
     {
       "id": "Berebers",
@@ -27,41 +29,63 @@
       "unidadUnica": ["Arquero en camello", "Escaramuzador zenete"],
       "tecnologiasUnicas": ["Alcazabas: Los castillos del equipo trabajan un 25 % más rápido.", "Camellos magrebíes: Las unidades montadas a camello se regeneran."],
        "bonoEquipo": ["Escaramuzador zenete disponible en galería de tiro con arco a partir de la Edad de los Castillos"],  
-      "imagen": "https://aoe2cm.net/images/civemblems/berbers.png",
+      "imagen": "https://app.aoe2companion.com/static/media/berber.fe5f82b9.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/CamelArcher.59699318.png","https://app.aoe2companion.com/static/media/Genitour.665292c8.png"]   
+    },
+    {
+      "id": "Burmese",
+      "nombre": "Birmanos",
+      "especialidad": "Civilización de monjes y elefantes",
+     "bonus": ["Tecnologías de campamento maderero gratis", "Infantería obtiene +1 de ataque en cada edad (a partir de la Edad Feudal)", "Elefantes de combate: +1/+1P de armadura", "Las tecnologías del monasterio cuestan un 50 % menos"],
+      "unidadUnica": ["Arambai"],
+      "tecnologiasUnicas": ["Howdah: Los elefantes de combate reciben +1 de armadura normal y +1 de armadura antiperforación.", "Caballería manipur: La caballería cuenta con +5 de ataque contra arqueros."],
+       "bonoEquipo": ["Reliquias visibles en el mapa desde el inicio del juego"],
+       "imagen": "https://app.aoe2companion.com/static/media/burmese.04989669.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Arambai.e75d52b0.png"]   
+    },
+    {
+      "id": "Byzantines",
+      "nombre": "Bizantinos",
+      "especialidad": "Civilización defensiva",
+     "bonus": ["Edificios: +10 % PR en Alta Edad Media, +20 % en Edad Feudal, +30 % en Edad de los Castillos, +40 % en Edad Imperial", "Jinetes de camello, hostigadores, piqueros y alabarderos: cuestan -25 %", "Barcos incendiarios: ataque 25 % más rápido", "Avanzar a la Edad Imperial cuesta -33 %","Guardia y patrulla urbana gratuitas"],
+      "unidadUnica": ["Catafracta"],
+      "tecnologiasUnicas": ["Fuego griego: Los barcos incendiarios consiguen +1 de alcance.", "Logística: Las catafractas arrasan a su paso."],
+       "bonoEquipo": ["Monjes: sanan unidades un 100 % más rápido"],
+       "imagen": "https://app.aoe2companion.com/static/media/byzantines.46365ea1.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Cataphract.940eb9b2.png"]   
     },
     {
       "id": "Bohemians",
       "nombre": "Bohemios",
-      "especialidad": "Especialidad 2",
-      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
-      "unidadUnica": "Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
+      "especialidad": "Civilización de pólvora y monjes",
+      "bonus": ["Las herrerías y las universidades cuestan 100 menos de madera", "Química y artillero de mano disponibles en la Edad de los Castillos", "La línea de lanceros inflige un 25 % más de daño", "El fervor y la santidad afectan a los aldeanos","Las tecnologías de los campamentos mineros son gratuitas"],  
+      "unidadUnica": ["Carro de guerra husita","Obús"],
+      "tecnologiasUnicas": ["Tácticas de fuerte de carretas: Las unidades con pólvora se mueven un 15 % más rápido.", "Reformas husitas: El coste de oro de los monjes y de las tecnologías del monasterio se reemplaza por comida."],
        "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
-      "imagen": "civilizacion2.jpg",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
+      "imagen": "https://app.aoe2companion.com/static/media/bohemians.b1f6b09c.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/HussiteWagon.13f9ce1c.png","https://app.aoe2companion.com/static/media/Houfnice.33aa5151.png"]   
     },
      {
       "id": "Britons",
       "nombre": "Britanos",
-       "especialidad": "Especialidad 2",
-      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
-      "unidadUnica": "Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
-      "imagen": "civilizacion2.jpg",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
+       "especialidad": "Civilización de arqueros a pie",
+      "bonus": ["Centros urbanos: cuestan un 50 % menos de madera a partir de la Edad de los Castillos", "Arqueros a pie (excepto hostigadores): +1 de alcance en la Edad de los Castillos y la Edad Imperial (+2 en total)", "Pastores: trabajan un 25 % más rápido"],  
+      "unidadUnica": ["Arquero con arco largo"],
+      "tecnologiasUnicas": ["Yeomen: Los arqueros a pie obtienen +1 de alcance; las torres obtienen +2 de ataque.", "Warwolf: Mejora tus lanzapiedras al proporcionar ataque con área de efecto a sus proyectiles."],
+       "bonoEquipo": ["Galerías de tiro con arco: funcionan un 20 % más rápido"],  
+      "imagen": "https://app.aoe2companion.com/static/media/britons.bbfbc4f1.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Longbowman.777b728f.png"]   
     },
      {
       "id": "Bulgarians",
       "nombre": "Bulgaros",
-      "especialidad": "Especialidad 2",
-      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
-      "unidadUnica": "Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
-      "imagen": "civilizacion2.jpg",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
+      "especialidad": "Civilización de infantería y caballería",
+      "bonus": ["Mejoras para la línea de milicia gratis", "Centros urbanos: cuestan -50 % de piedra", "Tecnologías de herrería y taller de maquinaria cuestan -50 % de comida", "Pueden construir el Krepost"],  
+      "unidadUnica": ["Konnik"],
+      "tecnologiasUnicas": ["Estribos: Caballería: ataques 33 % más rápidos.", "Bagains: La línea de milicia recibe +5 de armadura cuerpo a cuerpo."],
+       "bonoEquipo": ["Herrerías: trabajan 80 % más rápido"],  
+      "imagen": "https://app.aoe2companion.com/static/media/bulgarians.82b266f2.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Konnik.fb1f5e44.png"]   
     },
      {
       "id": "Burgundians",
@@ -71,29 +95,31 @@
       "unidadUnica": ["Costiller","Milicia flamenca"],
       "tecnologiasUnicas": ["Viñedos de Borgoña: Además de comida, los agricultores generan oro gradualmente", "Revolución flamenca: Mejora a todos los aldeanos existentes a milicia flamenca y permite crear milicias flamencas en el centro urbano."],
        "bonoEquipo": ["Las reliquias generan oro y alimento"],
-       "imagen": "https://aoe2cm.net/images/civemblems/burgundians.png"
+       "imagen": "https://app.aoe2companion.com/static/media/burgundians.9bb25b2e.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Coustillier.54bf3674.png","https://app.aoe2companion.com/static/media/FlemishMilitia.c3c189b3.png"]   
     },
+    
      {
       "id": "Celts",
       "nombre": "Celtas",
-       "especialidad": "Especialidad 2",
-      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
-      "unidadUnica": "Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
-      "imagen": "civilizacion2.jpg",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
+       "especialidad": "Civilización de infantería y asedio",
+      "bonus": ["Infantería es un 15 % más rápida (a partir de la Edad Feudal)", "Leñadores trabajan un 15 % más rápido", "Armas de asedio disparan un 25 % más rápido", "Se pueden robar ovejas y las ovejas en LDV de una unidad celta no se pueden robar"],  
+      "unidadUnica": ["Incursor azul"],
+      "tecnologiasUnicas": ["Bastión: Refuerza tus castillos y torres al disparar un +25 % más rápido.", "Furor celta: Las unidades del taller de maquinaria de asedio obtienen un 40 % más de puntos de resistencia."],
+       "bonoEquipo": ["Taller de maq. de asedio funciona 20 % más rápido"],  
+      "imagen": "https://app.aoe2companion.com/static/media/celts.13595048.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/WoadRaider.1dc24a3e.png"]   
     },
     {
       "id": "Chinese",
       "nombre": "Chinos",
-      "especialidad": "Especialidad 2",
-      "bonus": ["Recibe +200 unidades de madera al avanzar a cada edad", "Los pescadores y los pesqueros pueden llevar +15", "La tecnología de los cuarteles cuestan -50 %", "Los hostigadores y los arqueros en elefante atacan un 25 % más rápido"],  
-      "unidadUnica": "Unidad Única 2",
+      "especialidad": "Civilización de arqueros",
+      "bonus": ["Comienza con +3 aldeanos, -50 de madera, -200 de comida", "Las tecnologías cuestan -10 % en la Edad Feudal-15 % en Castillos, -20 % en Imperial", "Los centros urbanos habilitan 10 unidades de población y +5 LDV", "Buques de demolición: +50 % PR"],  
+      "unidadUnica": ["Unidad Única 2",
       "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
        "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
-      "imagen": "civilizacion2.jpg",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"]   
+      "imagen": "https://app.aoe2companion.com/static/media/chinese.40d128a3.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/ChuKoNu.82d4b586.png"]   
     },
      {
       "id": "Dravidians",
@@ -103,7 +129,7 @@
       "unidadUnica": ["Espadachín urumi","Thirisadai"],
       "tecnologiasUnicas": ["Cuerpo de médicos: Las unidades en elefante se regeneran 20 PR por minuto.", "Acero wootz: Los ataques de infantería y caballería ignoran la armadura."],
       "bonoEquipo": ["Cada muelle proporciona +5 de población"],
-      "imagen": "https://aoe2cm.net/images/civemblems/dravidians.png",
+      "imagen": "https://app.aoe2companion.com/static/media/dravidians.72eeb9d4.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"] 
     }
   ]
