@@ -115,9 +115,9 @@
       "nombre": "Chinos",
       "especialidad": "Civilización de arqueros",
       "bonus": ["Comienza con +3 aldeanos, -50 de madera, -200 de comida", "Las tecnologías cuestan -10 % en la Edad Feudal-15 % en Castillos, -20 % en Imperial", "Los centros urbanos habilitan 10 unidades de población y +5 LDV", "Buques de demolición: +50 % PR"],  
-      "unidadUnica": ["Unidad Única 2",
-      "tecnologiasUnicas": ["Tecnología 3", "Tecnología 4"],
-       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+      "unidadUnica": ["Chu ko nu"],
+      "tecnologiasUnicas": ["Gran Muralla: Refuerza tus muros y torres al obtener un +30 % de puntos de resistencia.", "Cohetería: Chu ko nu obtiene +2 de ataque perforante; los escorpiones obtienen +4 de ataque perforante."],
+      "bonoEquipo": ["Granjas +10 % de comida"],  
       "imagen": "https://app.aoe2companion.com/static/media/chinese.40d128a3.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/ChuKoNu.82d4b586.png"]   
     },
