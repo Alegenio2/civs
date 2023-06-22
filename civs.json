@@ -121,6 +121,28 @@
       "imagen": "https://app.aoe2companion.com/static/media/chinese.40d128a3.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/ChuKoNu.82d4b586.png"]   
     },
+    {
+      "id": "Koreans",
+      "nombre": "Coreanos",
+      "especialidad": "Civilización naval y defensiva",
+      "bonus": ["Aldeanos: +3 LDV", "Mineros de piedra: trabajan un 20 % más rápido", "Mejoras de torres gratis (la Torre de bombardeo requiere Química)", "Mejoras de armadura para arquero gratis","Las unidades militares (excepto armas de asedio) cuestan 20 % menos de madera"],  
+      "unidadUnica": ["Carreta de guerra","Barco tortuga"],
+      "tecnologiasUnicas": ["Eupseong: Las torres de guardia, torres de vigilancia y torres del homenaje tienen un +2 de alcance.", "Shinkichon: Las manganas, los onagros y los onagros de asedio obtienen +1 de alcance."],
+      "bonoEquipo": ["Manganas: se reduce su alcance mínimo"],  
+      "imagen": "https://app.aoe2companion.com/static/media/koreans.12738534.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/WarWagon.3a6a1769.png","https://app.aoe2companion.com/static/media/TurtleShip.303d13c9.png"]   
+    },
+    {
+      "id": "Cumans",
+      "nombre": "Cumanos",
+      "especialidad": "Civilización de caballería",
+      "bonus": ["Se puede construir un centro urbano adicional en la Edad Feudal", "Talleres de maquinaria de asedio y ariete disponibles en la Edad Feudal; mejora de arietes cubiertos disponible en Ed. de los Castillos", "Las galerías de tiro y los establos cuestan 75 menos de madera", "Caballería: 5 % más rápida en cada edad (desde la Edad Feudal)"],  
+      "unidadUnica": ["Kipchak],
+      "tecnologiasUnicas": ["Ganadería de la estepa: Caballería ligera, lanceros esteparios y arqueros montados: creación un 100 % más rápida.", "Mercenarios cumanos: Los miembros del equipo pueden crear 5 kipchaks de élite gratis por castillo."],
+      "bonoEquipo": ["Granjas +10 % de comida"],  
+      "imagen": "https://app.aoe2companion.com/static/media/cumans.3b703553.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Kipchak.b566db72.png"]   
+    },
      {
       "id": "Dravidians",
       "nombre": "Dravidicos",
@@ -131,6 +153,28 @@
       "bonoEquipo": ["Cada muelle proporciona +5 de población"],
       "imagen": "https://app.aoe2companion.com/static/media/dravidians.72eeb9d4.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"] 
+    },
+     {
+      "id": "Slavs",
+      "nombre": "Eslavos",
+      "especialidad": "Civilización de infantería y asedio",
+     "bonus": ["Granjeros: trabajan un 10 % más rápido", "Suministros gratis", "Taller de maq. de asedio: unidades un 15 % más barata"],
+      "unidadUnica": ["Boyardo"],
+      "tecnologiasUnicas": ["Detinets: Sustituye por madera el 40 % del coste de piedra de castillos y torres.", "Druzhina: La infantería dañan a las unidades adyacentes."],
+      "bonoEquipo": ["Cada edificio militar permite +5 de población"],
+      "imagen": "https://app.aoe2companion.com/static/media/slavs.c32a2030.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Boyar.43ea9d02.png"] 
+    },
+     {
+      "id": "Spanish",
+      "nombre": "Españoles",
+      "especialidad": "Civilización de la pólvora y monjes",
+     "bonus": ["Los constructores trabajan un 30 % más rápido", "Las mejoras de la herrería no cuestan oro", "Los galeones artillados se benefician de la balística (disparan más rápido, con más precisión)","Las unidades de pólvora disparan un 18 % más rápido"],
+      "unidadUnica": ["Conquistador","Misionero"],
+      "tecnologiasUnicas": ["Inquisición: Aumenta la velocidad de conversión de los monjes.", "Supremacía: Los aldeanos obtienen unas dotes guerreras excepcionales."],
+      "bonoEquipo": ["Las unidades comerciales generan un 25 % más de oro"],
+      "imagen": "https://app.aoe2companion.com/static/media/spanish.43b792d8.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Conquistador.ad1f8ca7.png","https://app.aoe2companion.com/static/media/Missionary.55a5ed2b.png"] 
     }
   ]
   
