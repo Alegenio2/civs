@@ -397,6 +397,72 @@
       "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
       "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
       "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+    },
+     {
+      "id": "Sicilians",
+      "nombre": "Sicilianos",
+      "especialidad": "Civilización de infantería y caballería",
+     "bonus": ["Se empieza con +100 de piedra", "Los castillos se construyen un 50% más rápido, y los centros urbanos, un 100%","Las unidades militares terrestres (excepto las armas de asedio) reciben un 33 % menos de daño adicional","Las mejoras de las granjas proporcionan un 125 % de comida adicional","El Donjon reemplaza la torre de guardia y subsiguientes"],
+      "unidadUnica": ["Serjeant"],
+      "tecnologiasUnicas": ["Primera cruzada: Cada centro urbano (máximo 5) genera un lote único de 7 serjeants. Las unidades son más resistentes a la conversión.", "Cota de malla: Los caballeros reciben +1 de armadura normal / +2 antiperforación."],
+      "bonoEquipo": ["El primer barco de transporte cuesta un 50 % menos y tiene +5 de CDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/sicilians.b6a58ab3.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Serjeant.d92188ce.png"] 
+    },
+     {
+      "id": "Tatars",
+      "nombre": "Tártaros",
+      "especialidad": "Civilización de arqueros a caballo",
+     "bonus": ["El ganado proporciona un 50% más de comida", "Los nuevos centros urbanos generan 2 ovejas a partir de la Edad de los Castillos","Las unidades infligen un 25% más de daño cuando luchan desde una posición elevada","Tácticas de los partias y dactilera gratis"],
+      "unidadUnica": ["Keshik","Camello llameante"],
+      "tecnologiasUnicas": ["Armadura de seda: La caballería ligera, los lanceros esteparios y los arqueros a caballo reciben +1 de armadura normal / +1 antiperforación.", "Tácticas de asedio timúridas: Los lanzapiedras reciben +2 de alcance. Habilita los camellos llameantes."],
+      "bonoEquipo": ["Arqueros a caballo: +2 CDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/tatars.fb8b0b14.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Keshik.95fd7f92.png","https://app.aoe2companion.com/static/media/FlamingCamel.acefbd2c.png"] 
+    },
+     {
+      "id": "Teutons",
+      "nombre": "Teutones",
+      "especialidad": "Civilización de infantería",
+     "bonus": ["Monjes: alcance de curación doble", "Torres acuartelan el doble de unidades","Matacanes y hierbas medicinales gratis","Granjas cuestan un 40 % menos","Centro urbano acuartelado +10","Unidades del cuartel y de los establos: +1 de armadura en Ed. de los Castillos y Ed. Imperial (total: +2)"],
+      "unidadUnica": ["Cab. Orden Teutónica"],
+      "tecnologiasUnicas": ["Blindaje: Aumenta la armadura de todas las armas de asedio para que sean más resistentes al ataque cuerpo a cuerpo.", "Almenas: Los castillos obtienen +3 de alcance; la infantería acuartelada dispara flechas."],
+      "bonoEquipo": ["Unidades son más resistentes a la conversión"],
+      "imagen": "https://app.aoe2companion.com/static/media/teutons.7a81c5e8.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/TeutonicKnight.86409d51.png"] 
+    },
+     {
+      "id": "Saracens",
+      "nombre": "Sarracenos",
+      "especialidad": "Civilización naval y de camellos",
+     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
+      "unidadUnica": ["Mameluco"],
+      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
+      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
+      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+    },
+     {
+      "id": "Saracens",
+      "nombre": "Sarracenos",
+      "especialidad": "Civilización naval y de camellos",
+     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
+      "unidadUnica": ["Mameluco"],
+      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
+      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
+      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+    },
+     {
+      "id": "Saracens",
+      "nombre": "Sarracenos",
+      "especialidad": "Civilización naval y de camellos",
+     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
+      "unidadUnica": ["Mameluco"],
+      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
+      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
+      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
     }
   ]
   
