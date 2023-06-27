@@ -176,5 +176,41 @@
       "imagen": "https://app.aoe2companion.com/static/media/spanish.43b792d8.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/Conquistador.ad1f8ca7.png","https://app.aoe2companion.com/static/media/Missionary.55a5ed2b.png"] 
     }
+    ,
+     {
+      "id": "Ethiopians",
+      "nombre": "Etíopes",
+      "especialidad": "Civilización de arqueros",
+     "bonus": ["Los arqueros disparan un 18 % más rápido", "Recibe +100 unidades de oro y +100 unidades de comida al avanzar a cada edad", "Mejoras de piquero gratis"],
+      "unidadUnica": ["Shotelai"],
+      "tecnologiasUnicas": ["Centralización: Los shotelais se crean casi al instante.", "Mecanismos de torsión: Aumenta el radio de explosión de las unidades de taller de asedio."],
+      "bonoEquipo": ["Torres y puestos de avanzada tienen +3 CDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/ethiopians.9dbc40a6.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/ShotelWarrior.d742438f.png"] 
+    }
+    ,
+     {
+      "id": "Franks",
+      "nombre": "Francos",
+      "especialidad": "Civilización de la pólvora y monjes",
+     "bonus": ["Coste de castillos -25%", "+20% puntos de resistencia en la Edad Feudal", "Tecnologías de molino gratuitas","Recolectores de bayas un 15 % más rápidos"],
+      "unidadUnica": ["Lanzador de hachas"],
+      "tecnologiasUnicas": ["Hacha de arista: Los lanzadores de hachas consiguen +1 de alcance.", "Código caballeresco: La velocidad de producción de los establos aumenta un +40%."],
+      "bonoEquipo": ["Caballeros +2 LDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/franks.4d5abb92.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/ThrowingAxeman.b756c37b.png"] 
+    }
+    ,
+     {
+      "id": "Goths",
+      "nombre": "Godos",
+      "especialidad": "Civilización de infantería",
+     "bonus": ["Unidades de infantería cuestan un 20 % menos en Alta Ed. Media, un 25 % menos en Ed. Feudal, un 30 % menos en Ed. de los Castillos y un 35 % menos en Ed. Imperial", "Infantería +1 ataque contra edificios por edad (a partir de la Ed. Feudal)", "Aldeanos +5 ataque contra jabalíes; cazadores cargan +15 de carne","Telar puede desarrollarse al instante","+10 población en Ed. Imperial"],
+      "unidadUnica": ["Huscarle"],
+      "tecnologiasUnicas": ["Anarquía: Te permite crear huscarles en los cuarteles.", "Movilización: Los cuarteles funcionan un 100 % más rápido."],
+      "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/goths.52c5d1a7.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Huskarl.c351df14.png"] 
+    }
   ]
   
