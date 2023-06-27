@@ -432,37 +432,37 @@
       "imgunidad":["https://app.aoe2companion.com/static/media/TeutonicKnight.86409d51.png"] 
     },
      {
-      "id": "Saracens",
-      "nombre": "Sarracenos",
-      "especialidad": "Civilización naval y de camellos",
-     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
-      "unidadUnica": ["Mameluco"],
-      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
-      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
-      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+      "id": "Turks",
+      "nombre": "Turcos",
+      "especialidad": "Civilización de pólvora",
+     "bonus": ["Unidades de pólvora +25 % de puntos de resistencia; desarrollar tecnologías de pólvora cuesta un 50 % menos; Química gratis", "Mineros de oro trabajan un 20 % más rápido","Caballería de exploración, caballería ligera y húsar obtienen +1P de armadura","Mejoras de caballería ligera y húsar gratis"],
+      "unidadUnica": ["Jenízaro"],
+      "tecnologiasUnicas": ["Sipahi: Los arqueros a caballo obtienen +20 puntos de resistencia.", "Artillería: Las torres de bombardeo, los cañones de asedio y galeones artillados obtienen +2 de alcance."],
+      "bonoEquipo": ["Unidades de pólvora: creadas un 25 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/turks.bed22a75.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Janissary.632f43ef.png"] 
     },
      {
-      "id": "Saracens",
-      "nombre": "Sarracenos",
-      "especialidad": "Civilización naval y de camellos",
-     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
-      "unidadUnica": ["Mameluco"],
-      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
-      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
-      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+      "id": "Vietnamese",
+      "nombre": "Vietnamitas",
+      "especialidad": "Civilización de arqueros",
+     "bonus": ["Revela las posiciones enemigas al inicio de la partida", "Las mejoras económicas no cuestan madera","Unidades de la galería de tiro con arco: +20% PR","Galeras: atacan un 25% más rápido","Leva gratis"],
+      "unidadUnica": ["Arquero de ratán"],
+      "tecnologiasUnicas": ["Chatras: Los elefantes de combate obtienen +100 PR.", "Papel moneda: Además de madera, los leñadores generan oro gradualmente."],
+      "bonoEquipo": ["Mejora de hostigador imperial disponible en la Edad Imperial"],
+      "imagen": "https://app.aoe2companion.com/static/media/vietnamese.976f93c0.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/RattanArcher.11e462a8.png"] 
     },
      {
-      "id": "Saracens",
-      "nombre": "Sarracenos",
-      "especialidad": "Civilización naval y de camellos",
-     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
-      "unidadUnica": ["Mameluco"],
-      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
-      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
-      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+      "id": "Vikings",
+      "nombre": "Vikingos",
+      "especialidad": "Civilización naval y de infantería",
+     "bonus": ["Navíos de guerra: cuestan -15% en la Edad Feudal, -15% en la Edad de los Castillos, -20% en la Edad Imperial", "Infantería: +20% PR desde la Edad Feudal","Carretilla y carro de mano gratis"],
+      "unidadUnica": ["Berserker","Drakkar"],
+      "tecnologiasUnicas": ["Hérsires: La infantería inflige daño adicional a las unidades de caballería.", "Trance frenético: Los berserkers se regeneran más rápido."],
+      "bonoEquipo": ["Los muelles cuestan -15%"],
+      "imagen": "https://app.aoe2companion.com/static/media/vikings.2c916a54.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Berserk.f9954d15.png","https://app.aoe2companion.com/static/media/Longboat.05d017a1.png"] 
     }
   ]
   
