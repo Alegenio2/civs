@@ -221,6 +221,28 @@
       "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
       "imagen": "https://app.aoe2companion.com/static/media/goths.52c5d1a7.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/Huskarl.c351df14.png"] 
+    },
+     {
+      "id": "Hindustanis",
+      "nombre": "Hindustanis",
+      "especialidad": "Civilización de camellos y pólvoraa",
+     "bonus": ["Aldeanos cuestan un 10 % menos en Alta Edad Media, 15 % menos en Ed. Feudal, 20 % menos en Ed. de los Castillos, 25 % menos en Ed. Imperial", "Unidades de pólvora: +1/+1P de armadura","Pueden construir caravasares en la Edad Imperial"],
+      "unidadUnica": ["Ghulam", "Jinete de camello imperial"],
+      "tecnologiasUnicas": ["Camino del Gran Tronco: Toda forma de obtención de oro será un 10 % más rápida (comercio, minas, reliquias).", "Shatagni: Los artilleros manuales obtienen +2 de alcance."],
+      "bonoEquipo": ["Unidades a camello y de caballería ligera: +2 de daño contra edificios"],
+      "imagen": "https://app.aoe2companion.com/static/media/hindustanis.060297db.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Ghulam.7a10ed2c.png","https://app.aoe2companion.com/static/media/ImperialCamelRider.afbe8bc8.png"] 
+    },
+     {
+      "id": "Huns",
+      "nombre": "Hunos",
+      "especialidad": "Civilización de caballería",
+     "bonus": ["No necesitan casas, pero comienzan con -100 unidades de madera", "Arqueros a caballo cuestan un 10 % menos en Edad de los Castillos, 20 % menos en Edad Imperial","Lanzapiedras son 30 % más precisos"],
+      "unidadUnica": ["Tarcano"],
+      "tecnologiasUnicas": ["Razias: Te permite crear tarcanos en los establos.", "Ateísmo: Las victorias por reliquia y maravilla tardan 100 años más en completarse; las reliquias enemigas generan un 50 % menos de recursos."],
+      "bonoEquipo": ["Establos funcionan un 20 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/huns.1e48617d.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Tarkan.da3481eb.png"] 
     }
   ]
   
