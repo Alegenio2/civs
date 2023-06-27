@@ -320,6 +320,83 @@
       "bonoEquipo": ["Los muelles obtienen +100% de CDV"],
       "imagen": "https://app.aoe2companion.com/static/media/malay.096b37f1.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/KarambitWarrior.347397f9.png"] 
+    },
+     {
+      "id": "Malians",
+      "nombre": "Malíes",
+      "especialidad": "Civilización de infantería",
+     "bonus": ["Los edificios cuestan un 15 % menos de madera", "Las unidades de cuarteles obtienen +1P de armadura por edad (a partir de la Edad Feudal)","Las minas de oro duran un 30 % más"],
+      "unidadUnica": ["Guardiana gbeto"],
+      "tecnologiasUnicas": ["Gran asamblea: Los centros urbano disparan flechas.", "Farimba: La caballería obtiene +5 de ataque."],
+      "bonoEquipo": ["Las universidades funcionan un 80 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/malians.be9f64b7.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Gbeto.542ff833.png"] 
+    },
+     {
+      "id": "Mayans",
+      "nombre": "Mayas",
+      "especialidad": "Civilización de arqueros",
+     "bonus": ["Comienzan con +1 aldeano, pero con -50 unidades de comida", "Fuentes de recursos duran 15% más","Arqueros cuestan un 10% menos en Ed. Feudal, 20% menos en Ed. de los Castillos, 30% menos en Ed. Imperial"],
+      "unidadUnica": ["Arquero emplumado"],
+      "tecnologiasUnicas": ["Lanzadores de hul'che: Mejora a tus hostigadores para que lancen un segundo proyectil.", "El Dorado: Los guerreros águila obtienen +40 puntos de resistencia."],
+      "bonoEquipo": ["Muros cuestan un 50 % menos"],
+      "imagen": "https://app.aoe2companion.com/static/media/mayans.d9e49299.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/PlumedArcher.9efb6b4f.png"] 
+    },
+     {
+      "id": "Mongols",
+      "nombre": "Mongoles",
+      "especialidad": "Civilización de arqueros a caballo",
+     "bonus": ["Arq. a caballo disparan 25% más rápido", "Caballería ligera, húsar, lanceros esteparios: +30% PR","Cazadores trabajan 40% más rápido"],
+      "unidadUnica": ["Mangudai"],
+      "tecnologiasUnicas": ["Nómadas: Las casas no pierden su capacidad de población al ser destruidas.", "Instrucción militar: Las unidades del taller de maquinaria de asedio se mueven un 50 % más rápido."],
+      "bonoEquipo": ["Caballería de exploración, caballería ligera, húsar +2 LDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/mongols.141db93a.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Mangudai.96db73fd.png"] 
+    },
+     {
+      "id": "Persians",
+      "nombre": "Persas",
+      "especialidad": "Civilización de caballería",
+     "bonus": ["Comienzan con +50 unidades de comida y madera", "Centro urbano y muelle: doble de puntos de resistencia; trabajan 10 % más rápido en Feudal, +15 % en Castillos, +20 % en Imperial"],
+      "unidadUnica": ["Elefante de guerra"],
+      "tecnologiasUnicas": ["Kamandaran: Los arqueros y subsiguientes dejan de costar oro, y pasan a costar más madera.", "Cornacas: Los elefantes de guerra se mueven un 30 % más rápido."],
+      "bonoEquipo": ["Caballeros +2 de ataque contra arqueros"],
+      "imagen": "https://app.aoe2companion.com/static/media/persians.fff21d8c.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/WarElephant.18d8561f.png"] 
+    },
+     {
+      "id": "Poles",
+      "nombre": "Poles",
+      "especialidad": "Civilización de caballería",
+     "bonus": ["Los aldeanos regeneran 5 PR por minuto en la Edad Alta Media, 10 en la Edad Feudal, 15 en la Edad de los Castillos y 20 en la Edad Imperial", "El folwark sustituye al molino","Los mineros de piedra también generan oro"],
+      "unidadUnica": ["Martillo de guerra","Húsar alado"],
+      "tecnologiasUnicas": ["Privilegios de Szlachta: Los caballeros cuestan un 60 % menos de oro.", "Legado lequítico: La caballería ligera arrasa a su paso."],
+      "bonoEquipo": ["La caballería de exploración, la caballería ligera y los húsares cuentan con +1 de ataque contra los arqueros"],
+      "imagen": "https://app.aoe2companion.com/static/media/poles.80620c56.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Obuch.817e6981.png","https://app.aoe2companion.com/static/media/WingedHussar.c7a59c52.png"] 
+    },
+     {
+      "id": "Portuguese",
+      "nombre": "Portugueses",
+      "especialidad": "Civilización naval y de pólvora",
+     "bonus": ["Todas las unidades cuestan un 20% menos de oro", "Los recolectores generan madera además de comida","Barcos tienen un 10% más de puntos de resistencia","Pueden construir factorías en la Edad Imperial"],
+      "unidadUnica": ["Cañón de salvas","Carabela"],
+      "tecnologiasUnicas": ["Carracas: Los barcos reciben +1 de armadura normal / +1 antiperforación.", "Arcabuz: Balística para unidades de pólvora."],
+      "bonoEquipo": ["Las tecnologías se desarrollan un 25 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/italians.49fc489c.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/GenoeseCrossbowman.eefaaea6.png","https://app.aoe2companion.com/static/media/Condottiero.4e4cf58d.png"] 
+    },
+     {
+      "id": "Saracens",
+      "nombre": "Sarracenos",
+      "especialidad": "Civilización naval y de camellos",
+     "bonus": ["Comercio en mercado: cuesta solo un 5 %", "Mercados: cuestan 100 menos de madera","Barcos de transporte: el doble de puntos de resistencia, el doble de capacidad de carga","Galeras: atacan un 25 % más rápido","Unidades de camello: +10 PR"],
+      "unidadUnica": ["Mameluco"],
+      "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
+      "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
+      "imagen": "https://app.aoe2companion.com/static/media/saracens.10943b89.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
     }
   ]
   
