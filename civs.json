@@ -199,13 +199,23 @@
       "bonoEquipo": ["Caballeros +2 LDV"],
       "imagen": "https://app.aoe2companion.com/static/media/franks.4d5abb92.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/ThrowingAxeman.b756c37b.png"] 
-    }
-    ,
+    },
      {
       "id": "Goths",
       "nombre": "Godos",
       "especialidad": "Civilización de infantería",
      "bonus": ["Unidades de infantería cuestan un 20 % menos en Alta Ed. Media, un 25 % menos en Ed. Feudal, un 30 % menos en Ed. de los Castillos y un 35 % menos en Ed. Imperial", "Infantería +1 ataque contra edificios por edad (a partir de la Ed. Feudal)", "Aldeanos +5 ataque contra jabalíes; cazadores cargan +15 de carne","Telar puede desarrollarse al instante","+10 población en Ed. Imperial"],
+      "unidadUnica": ["Huscarle"],
+      "tecnologiasUnicas": ["Anarquía: Te permite crear huscarles en los cuarteles.", "Movilización: Los cuarteles funcionan un 100 % más rápido."],
+      "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/goths.52c5d1a7.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Huskarl.c351df14.png"] 
+    },
+     {
+      "id": "Gurjaras",
+      "nombre": "Gurjaras",
+      "especialidad": "Civilización de infantería",
+     "bonus": ["Empieza con 2 arbustos", "Puede crear ganado en el molino para producir comida", "Aldeanos +5 ataque contra jabalíes; cazadores cargan +15 de carne","Telar puede desarrollarse al instante","+10 población en Ed. Imperial"],
       "unidadUnica": ["Huscarle"],
       "tecnologiasUnicas": ["Anarquía: Te permite crear huscarles en los cuarteles.", "Movilización: Los cuarteles funcionan un 100 % más rápido."],
       "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
