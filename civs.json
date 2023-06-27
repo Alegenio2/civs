@@ -243,6 +243,50 @@
       "bonoEquipo": ["Establos funcionan un 20 % más rápido"],
       "imagen": "https://app.aoe2companion.com/static/media/huns.1e48617d.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/Tarkan.da3481eb.png"] 
+    },
+     {
+      "id": "Incas",
+      "nombre": "Incas",
+      "especialidad": "Civilización de infantería",
+     "bonus": ["Comienzo con una llama gratis", "Las mejoras de herrería afectan a los aldeanos desde la Edad de los Castillos","Las casas mantienen a 10 unidades de población","Los edificios cuestan un 15 % menos de piedra"],
+      "unidadUnica": ["Kamayuk","Hondero"],
+      "tecnologiasUnicas": ["Huaracas: Mejora a tus hostigadores y honderos eliminando su alcance mínimo.", "Escudos de tela: Kamayuks, honderos y águilas reciben +1 de armadura/+2 armadura antiperforación."],
+      "bonoEquipo": ["Lanceros y hostigadores: +2 de campo de visión"],
+      "imagen": "https://app.aoe2companion.com/static/media/inca.a80fa6a7.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Kamayuk.fa9336df.png","https://app.aoe2companion.com/static/media/Slinger.57deac11.png"] 
+    },
+     {
+      "id": "Italians",
+      "nombre": "Italianos",
+      "especialidad": "Civilización naval y de arqueros",
+     "bonus": ["Avanzar a la siguiente Edad cuesta un 15 % menos", "Las tecnologías de los muelles y de la Universidad cuestan un 33 % menos","Los barcos pesqueros cuestan un 15 % menos","Las unidades que usan pólvora cuestan un 20 % menos"],
+      "unidadUnica": ["Genovés ballestero","Condotiero"],
+      "tecnologiasUnicas": ["Escudo pavés: Los arqueros a pie y los condotieros obtienen +1 de armadura normal / +1 antiperforación.", "Ruta de la Seda: Las unidades que transportan suministros cuestan un 50 % menos."],
+      "bonoEquipo": ["Condotiero disponible en cuarteles en la Edad Imperial"],
+      "imagen": "https://app.aoe2companion.com/static/media/italians.49fc489c.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/GenoeseCrossbowman.eefaaea6.png","https://app.aoe2companion.com/static/media/Condottiero.4e4cf58d.png"] 
+    },
+     {
+      "id": "Japanese",
+      "nombre": "Japoneses",
+      "especialidad": "Civilización de infantería",
+     "bonus": ["Pesqueros doble ptos. resist. +2 arm. AP; trabajan 5 % más rápido A. E. Media, +10 % E. Feudal, +15 % E. Cast., +20 % E. Imperial", "Infantería ataca un 33 % más rápido a partir de la Edad Feudal"],
+      "unidadUnica": ["Samurai"],
+      "tecnologiasUnicas": ["Yasama: Refuerza tus torres al disparar flechas adicionales.", "Kataparuto: Los lanzapiedras disparan y se arman y desarman más rápido."],
+      "bonoEquipo": ["Galeras obtienen +50 % línea de visión"],
+      "imagen": "https://app.aoe2companion.com/static/media/japanese.1cec4201.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Samurai.65c16527.png"] 
+    },
+     {
+      "id": "Khmer",
+      "nombre": "Jemeres",
+      "especialidad": "Asedio y civilización de elefantes",
+     "bonus": ["No se necesitan edificios para avanzar a la siguiente edad o para desbloquear otros edificios", "Los granjeros no necesitan comida de los molinos o centros urbanos","Los elefantes de combate se mueven un 10 % más rápido","Los aldeanos pueden guarnecerse en casas"],
+      "unidadUnica": ["Elefante con balista"],
+      "tecnologiasUnicas": ["Colmillos de acero: Los elefantes de combate obtienen +3 de ataque.", "Ballesta doble: Los elefantes y escorpiones balistas disparan dos proyectiles."],
+      "bonoEquipo": ["Los escorpiones cuentan con +1 en alcance"],
+      "imagen": "https://app.aoe2companion.com/static/media/khmer.12d81357.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/BallistaElephant.46af1df8.png"] 
     }
   ]
   
