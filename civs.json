@@ -447,11 +447,11 @@
       "nombre": "Vietnamitas",
       "especialidad": "Civilización de arqueros",
      "bonus": ["Revela las posiciones enemigas al inicio de la partida", "Las mejoras económicas no cuestan madera","Unidades de la galería de tiro con arco: +20% PR","Galeras: atacan un 25% más rápido","Leva gratis"],
-      "unidadUnica": ["Arquero de ratán"],
+      "unidadUnica": ["Arquero de ratán","Hostigador imperial"],
       "tecnologiasUnicas": ["Chatras: Los elefantes de combate obtienen +100 PR.", "Papel moneda: Además de madera, los leñadores generan oro gradualmente."],
       "bonoEquipo": ["Mejora de hostigador imperial disponible en la Edad Imperial"],
       "imagen": "https://app.aoe2companion.com/static/media/vietnamese.976f93c0.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/RattanArcher.11e462a8.png"] 
+      "imgunidad":["https://app.aoe2companion.com/static/media/RattanArcher.11e462a8.png","https://app.aoe2companion.com/static/media/ImperialSkirmisher.75ca4ec2.png"] 
     },
      {
       "id": "Vikings",
