@@ -287,6 +287,39 @@
       "bonoEquipo": ["Los escorpiones cuentan con +1 en alcance"],
       "imagen": "https://app.aoe2companion.com/static/media/khmer.12d81357.png",
       "imgunidad": ["https://app.aoe2companion.com/static/media/BallistaElephant.46af1df8.png"] 
+    },
+     {
+      "id": "Lithuanians",
+      "nombre": "Lituanos",
+      "especialidad": "Civilización de caballería y monjes",
+     "bonus": ["+150 de comida al inicio","Los lanceros y hostigadores son un 10 % más rápidos","Cada reliquia guardada otorga +1 de ataque a caballeros y Leitis (máximo +4)"],
+      "unidadUnica": ["Leitis"],
+      "tecnologiasUnicas": ["Fuertes en las colinas: Los centros urbanos reciben +3 de alcance.", "Escudos rectangulares: Piqueros y hostigadores: +2 de armadura antiperforación."],
+      "bonoEquipo": ["Los monasterios funcionan un 20 % más rápido"],
+      "imagen": "https://app.aoe2companion.com/static/media/lithuanians.a17e2d83.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/Leitis.59922b05.png"] 
+    },
+     {
+      "id": "Magyars",
+      "nombre": "Magiares",
+      "especialidad": "Civilización de caballería",
+     "bonus": ["Los aldeanos eliminan a los lobos de un golpe", "Forja, fundición de hierro y alto horno gratis","Cab. de exploración, cab. ligera y húsares cuestan un 15 % menos"],
+      "unidadUnica": ["Huszár magiar"],
+      "tecnologiasUnicas": ["Ejército corviniano: Los huszár magiares no cuestan oro.", "Arco recurvo: Los arqueros a caballo obtienen +1 de alcance y +1 de ataque."],
+      "bonoEquipo": ["Arqueros a pie tienen +2 CDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/magyars.97a2db7b.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/MagyarHuszar.5e9b75b2.png"] 
+    },
+     {
+      "id": "Malay",
+      "nombre": "Malayos",
+      "especialidad": "Civilización naval",
+     "bonus": ["Avanza a la siguiente edad un 66 % más rápido", "Las trampas para peces cuestan un 33 % menos y proporcionan el triple de comida","Los elefantes de combate cuestan un 30 % menos en la Edad de los Castillos y un 40 % menos en la Edad Imperial"],
+      "unidadUnica": ["Recluta con karambit"],
+      "tecnologiasUnicas": ["Talasocracia: Mejora tus muelles a puertos, que disparan flechas.", "Leva en masa: Milicia y subsiguientes dejan de costar oro, y pasan a costar más comida"],
+      "bonoEquipo": ["Los muelles obtienen +100% de CDV"],
+      "imagen": "https://app.aoe2companion.com/static/media/malay.096b37f1.png",
+      "imgunidad": ["https://app.aoe2companion.com/static/media/KarambitWarrior.347397f9.png"] 
     }
   ]
   
