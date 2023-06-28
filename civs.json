@@ -384,8 +384,8 @@
       "unidadUnica": ["Cañón de salvas","Carabela"],
       "tecnologiasUnicas": ["Carracas: Los barcos reciben +1 de armadura normal / +1 antiperforación.", "Arcabuz: Balística para unidades de pólvora."],
       "bonoEquipo": ["Las tecnologías se desarrollan un 25 % más rápido"],
-      "imagen": "https://app.aoe2companion.com/static/media/italians.49fc489c.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/GenoeseCrossbowman.eefaaea6.png","https://app.aoe2companion.com/static/media/Condottiero.4e4cf58d.png"] 
+      "imagen": "https://app.aoe2companion.com/static/media/portuguese.4dca0d6b.png",
+      "imgunidad":["https://app.aoe2companion.com/static/media/OrganGun.02452f24.png","https://app.aoe2companion.com/static/media/Caravel.d835884c.png"] 
     },
      {
       "id": "Saracens",
