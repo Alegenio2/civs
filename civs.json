@@ -358,9 +358,9 @@
       "id": "Persians",
       "nombre": "Persas",
       "especialidad": "Civilización de caballería",
-     "bonus": ["Comienzan con +50 unidades de comida y madera", "Centro urbano y muelle: doble de puntos de resistencia; trabajan 10 % más rápido en Feudal, +15 % en Castillos, +20 % en Imperial"],
+     "bonus": ["Comienzan con +50 unidades de comida y madera", "Centro urbano y muelle: doble de puntos de resistencia, velocidad de trabajo +5% en la Alta edad Media, 10 % más rápido en Feudal, +15 % en Castillos, +20 % en Imperial","Tácticas de partos disponible en Castillos","Puedes construir caravasares en Imperial" ],
       "unidadUnica": ["Elefante de guerra"],
-      "tecnologiasUnicas": ["Kamandaran: Los arqueros y subsiguientes dejan de costar oro, y pasan a costar más madera.", "Cornacas: Los elefantes de guerra se mueven un 30 % más rápido."],
+      "tecnologiasUnicas": ["Kamandaran: Los arqueros y subsiguientes dejan de costar oro, y pasan a costar más madera.", "Ciudadelas: Los castillos diparan balas (+4 de ataque,+3 contra arietes,+3 infanteria) y 25% menos de daño adicionales."],
       "bonoEquipo": ["Caballeros +2 de ataque contra arqueros"],
       "imagen": "https://app.aoe2companion.com/static/media/persians.fff21d8c.png",
       "imgunidad":["https://app.aoe2companion.com/static/media/WarElephant.18d8561f.png"] 
