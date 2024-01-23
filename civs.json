@@ -363,7 +363,7 @@
       "tecnologiasUnicas": ["Lanzadores de hul'che: Mejora a tus hostigadores para que lancen un segundo proyectil.", "El Dorado: Los guerreros águila obtienen +40 puntos de resistencia."],
       "bonoEquipo": ["Muros cuestan un 50 % menos"],
       "imagen": "https://app.aoe2companion.com/static/media/mayans.d9e49299.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/PlumedArcher.9efb6b4f.png"] 
+      "imgunidad":["https://app.aoe2companion.com/assets/app/assets/units/PlumedArcher.22401082b444e3413272a0f6169a043b.png"] 
     },
      {
       "id": "Mongols",
