@@ -7,7 +7,7 @@
       "bonus": ["Las carreta de mulas cuestan -25%.","Las tecnologías de la carreta de mulas son un 40% más efectivas.", "La primera Iglesia fortificada recibe una reliquia gratis", "Espadachín de espada larga en adelante y la línea de Lancero[nota 2] están disponibles una Edad antes.","La línea de Galera y Dromon* disparan dos proyectiles."],  
       "tecnologiasUnicas": ["Flota de cilicia: Buque de demolición +20% radio de explosión; la línea de Galera de guerra y Dromon +1 de rango", "Relicarios: Infantería (excepto la línea de Piquero) +30 puntos de vida; Sacerdote Guerrero +100% velocidad de curación"],
       "bonoEquipo": ["La infantería tiene +2 línea de visión."],
-      "imagen": "https://github.com/Alegenio2/civs/blob/main/civs/armenians.png",
+      "imagen": "https://github.com/Alegenio2/civs/blob/main/civs/armenians.png?raw=true",
       "imgunidad": ["https://github.com/Alegenio2/civs/blob/main/unidades/AoE2_ArqueroCompuesto.webp","https://github.com/Alegenio2/civs/blob/main/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
     {
