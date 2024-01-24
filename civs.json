@@ -30,7 +30,7 @@
       "tecnologiasUnicas": ["Paiks: Las unidades rathas y de elefantes atacan un 20 % más rápido.", "Mahāyāna: Los aldeanos ocupan un 10 % menos de espacio de población."],
        "bonoEquipo": ["Las unidades de comercio proporcionan un 10 % de comida además de oro"],
       "imagen": "https://fumage.netlify.app/img/civ/bengalis.png",
-     "imgunidad": ["https://app.aoe2companion.com/static/media/Ratha.2adc7460.png"] 
+     "imgunidad": ["https://fumage.netlify.app/img/unidades/Ratha_Icono.webp"] 
     },
     {
       "id": "Berebers",
@@ -41,7 +41,7 @@
       "tecnologiasUnicas": ["Alcazabas: Los castillos del equipo trabajan un 25 % más rápido.", "Camellos magrebíes: Las unidades montadas a camello se regeneran."],
        "bonoEquipo": ["Escaramuzador zenete disponible en galería de tiro con arco a partir de la Edad de los Castillos"],  
       "imagen": "https://fumage.netlify.app/img/civ/berbers.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/CamelArcher.59699318.png","https://app.aoe2companion.com/static/media/Genitour.665292c8.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/CamelloArquero_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Escaramuzador_Zenete_Icono-DE.webp"]   
     },
     {
       "id": "Burmese",
@@ -52,7 +52,7 @@
       "tecnologiasUnicas": ["Howdah: Los elefantes de combate reciben +1 de armadura normal y +1 de armadura antiperforación.", "Caballería manipur: La caballería cuenta con +5 de ataque contra arqueros."],
        "bonoEquipo": ["Reliquias visibles en el mapa desde el inicio del juego"],
        "imagen": "https://fumage.netlify.app/img/civ/burmese.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Arambai.e75d52b0.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Arambai_Icono-DE.webp"]   
     },
     {
       "id": "Byzantines",
@@ -63,7 +63,7 @@
       "tecnologiasUnicas": ["Fuego griego: Los barcos incendiarios consiguen +1 de alcance.", "Logística: Las catafractas arrasan a su paso."],
        "bonoEquipo": ["Monjes: sanan unidades un 100 % más rápido"],
        "imagen": "https://fumage.netlify.app/img/civ/byzantines.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Cataphract.940eb9b2.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Catafacta-Icono-DE.webp"]   
     },
     {
       "id": "Bohemians",
@@ -74,7 +74,7 @@
       "tecnologiasUnicas": ["Tácticas de fuerte de carretas: Las unidades con pólvora se mueven un 15 % más rápido.", "Reformas husitas: El coste de oro de los monjes y de las tecnologías del monasterio se reemplaza por comida."],
        "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
       "imagen": "https://fumage.netlify.app/img/civ/bohemians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/HussiteWagon.13f9ce1c.png","https://app.aoe2companion.com/static/media/Houfnice.33aa5151.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Carreta_Husita_Icono.webp","https://fumage.netlify.app/img/unidades/Houfnice_Icono.webp"]   
     },
      {
       "id": "Britons",
@@ -85,7 +85,7 @@
       "tecnologiasUnicas": ["Yeomen: Los arqueros a pie obtienen +1 de alcance; las torres obtienen +2 de ataque.", "Warwolf: Mejora tus lanzapiedras al proporcionar ataque con área de efecto a sus proyectiles."],
        "bonoEquipo": ["Galerías de tiro con arco: funcionan un 20 % más rápido"],  
       "imagen": "https://fumage.netlify.app/img/civ/britons.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Longbowman.777b728f.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Arquero_Tiro_Largo_Icono-DE.webp"]   
     },
      {
       "id": "Bulgarians",
@@ -96,7 +96,7 @@
       "tecnologiasUnicas": ["Estribos: Caballería: ataques 33 % más rápidos.", "Bagains: La línea de milicia recibe +5 de armadura cuerpo a cuerpo."],
        "bonoEquipo": ["Herrerías: trabajan 80 % más rápido"],  
       "imagen": "https://fumage.netlify.app/img/civ/bulgarians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Konnik.fb1f5e44.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Konnikicon.webp"]   
     },
      {
       "id": "Burgundians",
@@ -107,7 +107,7 @@
       "tecnologiasUnicas": ["Viñedos de Borgoña: Además de comida, los agricultores generan oro gradualmente", "Revolución flamenca: Mejora a todos los aldeanos existentes a milicia flamenca y permite crear milicias flamencas en el centro urbano."],
        "bonoEquipo": ["Las reliquias generan oro y alimento"],
        "imagen": "https://fumage.netlify.app/img/civ/burgundians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Coustillier.54bf3674.png","https://app.aoe2companion.com/static/media/FlemishMilitia.c3c189b3.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Coustillier_Icono.webp","https://fumage.netlify.app/img/unidades/Milicia_Flamenca_Icono.webp"]   
     },
     
      {
@@ -119,7 +119,7 @@
       "tecnologiasUnicas": ["Bastión: Refuerza tus castillos y torres al disparar un +25 % más rápido.", "Furor celta: Las unidades del taller de maquinaria de asedio obtienen un 40 % más de puntos de resistencia."],
        "bonoEquipo": ["Taller de maq. de asedio funciona 20 % más rápido"],  
       "imagen": "https://fumage.netlify.app/img/civ/celts.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/WoadRaider.1dc24a3e.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/WoadRaider.1dc24a3e.png"]   
     },
     {
       "id": "Chinese",
@@ -130,7 +130,7 @@
       "tecnologiasUnicas": ["Gran Muralla: Refuerza tus muros y torres al obtener un +30 % de puntos de resistencia.", "Cohetería: Chu ko nu obtiene +2 de ataque perforante; los escorpiones obtienen +4 de ataque perforante."],
       "bonoEquipo": ["Granjas +10 % de comida"],  
       "imagen": "https://fumage.netlify.app/img/civ/chinese.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/ChuKoNu.82d4b586.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/ChukoNu_Icono-DE.webp"]   
     },
     {
       "id": "Koreans",
@@ -141,7 +141,7 @@
       "tecnologiasUnicas": ["Eupseong: Las torres de guardia, torres de vigilancia y torres del homenaje tienen un +2 de alcance.", "Shinkichon: Las manganas, los onagros y los onagros de asedio obtienen +1 de alcance."],
       "bonoEquipo": ["Manganas: se reduce su alcance mínimo"],  
       "imagen": "https://fumage.netlify.app/img/civ/koreans.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/WarWagon.3a6a1769.png","https://app.aoe2companion.com/static/media/TurtleShip.303d13c9.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Carreta_Guerra_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Barco_Tortuga_Icono-DE.webp"]   
     },
     {
       "id": "Cumans",
@@ -152,7 +152,7 @@
       "tecnologiasUnicas": ["Ganadería de la estepa: Caballería ligera, lanceros esteparios y arqueros montados: creación un 100 % más rápida.", "Mercenarios cumanos: Los miembros del equipo pueden crear 5 kipchaks de élite gratis por castillo."],
       "bonoEquipo": ["Granjas +10 % de comida"],  
       "imagen": "https://fumage.netlify.app/img/civ/cumans.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Kipchak.b566db72.png"]   
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Kipchakicon.webp"]   
     },
      {
       "id": "Dravidians",
@@ -163,7 +163,7 @@
       "tecnologiasUnicas": ["Cuerpo de médicos: Las unidades en elefante se regeneran 20 PR por minuto.", "Acero wootz: Los ataques de infantería y caballería ignoran la armadura."],
       "bonoEquipo": ["Cada muelle proporciona +5 de población"],
       "imagen": "https://fumage.netlify.app/img/civ/dravidians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/UrumiSwordsman.77186d54.png","https://app.aoe2companion.com/static/media/Thirisadai.d5a85597.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Espadachin_Urumi_Icono.webp","https://fumage.netlify.app/img/unidades/Thirisadai_Icono.webp"] 
     },
      {
       "id": "Slavs",
@@ -174,7 +174,7 @@
       "tecnologiasUnicas": ["Detinets: Sustituye por madera el 40 % del coste de piedra de castillos y torres.", "Druzhina: La infantería dañan a las unidades adyacentes."],
       "bonoEquipo": ["Cada edificio militar permite +5 de población"],
       "imagen": "https://fumage.netlify.app/img/civ/slavs.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Boyar.43ea9d02.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Boyardo-Icono-DE.webp"] 
     },
      {
       "id": "Spanish",
@@ -185,7 +185,7 @@
       "tecnologiasUnicas": ["Inquisición: Aumenta la velocidad de conversión de los monjes.", "Supremacía: Los aldeanos obtienen unas dotes guerreras excepcionales."],
       "bonoEquipo": ["Las unidades comerciales generan un 25 % más de oro"],
       "imagen": "https://fumage.netlify.app/img/civ/spanish.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Conquistador.ad1f8ca7.png","https://app.aoe2companion.com/static/media/Missionary.55a5ed2b.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Conquistador-Icono-DE.webp","https://fumage.netlify.app/img/unidades/Misionero_Icono-DE.webp"] 
     }
     ,
      {
@@ -197,7 +197,7 @@
       "tecnologiasUnicas": ["Centralización: Los shotelais se crean casi al instante.", "Mecanismos de torsión: Aumenta el radio de explosión de las unidades de taller de asedio."],
       "bonoEquipo": ["Torres y puestos de avanzada tienen +3 CDV"],
       "imagen": "https://fumage.netlify.app/img/civ/ethiopians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/ShotelWarrior.d742438f.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Shotelai_icono-DE.webp"] 
     }
     ,
      {
@@ -209,7 +209,7 @@
       "tecnologiasUnicas": ["Hacha de arista: Los lanzadores de hachas consiguen +1 de alcance.", "Código caballeresco: La velocidad de producción de los establos aumenta un +40%."],
       "bonoEquipo": ["Caballeros +2 LDV"],
       "imagen": "https://fumage.netlify.app/img/civ/franks.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/ThrowingAxeman.b756c37b.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Lanzador_Hachas_Icono-DE.webp"] 
     },
     {
       "id": "Georgians",
@@ -220,7 +220,7 @@
       "tecnologiasUnicas": ["Torres esvanas: Los edificio defensivos reciben +2 de ataque. El ataque de las Torres atraviesa.", "Caballería Aznauri: Las unidades de caballería ocupan un 15% menos de espacio de población."],
       "bonoEquipo": ["Reparar edificios cuesta -25% de recursos."],
       "imagen": "https://fumage.netlify.app/img/civ/georgians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Monaspa.ec50bc9e.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/AoE2_Monaspa.webp"] 
     },
      {
       "id": "Goths",
@@ -231,7 +231,7 @@
       "tecnologiasUnicas": ["Anarquía: Te permite crear huscarles en los cuarteles.", "Movilización: Los cuarteles funcionan un 100 % más rápido."],
       "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/goths.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Huskarl.c351df14.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Huscarle_Icono-DE.webp"] 
     },
      {
       "id": "Gurjaras",
@@ -242,7 +242,7 @@
       "tecnologiasUnicas": ["Chatrias: Las unidades militares cuestan -25% comida", "Guardias fronterizos: Jinetes a camello y Arqueros en Elefante obtienen +4 de armadura cuerpo a cuerpo."],
       "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/gurjaras.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/ChakramThrower.f7481b65.png","https://app.aoe2companion.com/static/media/ShrivamshaRider.c787769e.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Lanzador_Chakram_Icono.webp","https://fumage.netlify.app/img/unidades/Jinete_Shrivamsha_Icono.webp"] 
     },
      {
       "id": "Hindustanis",
@@ -253,7 +253,7 @@
       "tecnologiasUnicas": ["Camino del Gran Tronco: Toda forma de obtención de oro será un 10 % más rápida (comercio, minas, reliquias).", "Shatagni: Los artilleros manuales obtienen +2 de alcance."],
       "bonoEquipo": ["Unidades a camello y de caballería ligera: +2 de daño contra edificios"],
       "imagen": "https://fumage.netlify.app/img/civ/indians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Ghulam.7a10ed2c.png","https://app.aoe2companion.com/static/media/ImperialCamelRider.afbe8bc8.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Ghulam_Icono.webp","https://fumage.netlify.app/img/unidades/Camello_Imperial_Icono-DE.webp"] 
     },
      {
       "id": "Huns",
@@ -264,7 +264,7 @@
       "tecnologiasUnicas": ["Razias: Te permite crear tarcanos en los establos.", "Ateísmo: Las victorias por reliquia y maravilla tardan 100 años más en completarse; las reliquias enemigas generan un 50 % menos de recursos."],
       "bonoEquipo": ["Establos funcionan un 20 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/huns.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Tarkan.da3481eb.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Tarkan.da3481eb.png"] 
     },
      {
       "id": "Incas",
@@ -275,7 +275,7 @@
       "tecnologiasUnicas": ["Huaracas: Mejora a tus hostigadores y honderos eliminando su alcance mínimo.", "Escudos de tela: Kamayuks, honderos y águilas reciben +1 de armadura/+2 armadura antiperforación."],
       "bonoEquipo": ["Comienzan con una llama gratis."],
       "imagen": "https://fumage.netlify.app/img/civ/incas.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Kamayuk.fa9336df.png","https://app.aoe2companion.com/static/media/Slinger.57deac11.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Kamayuk_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Hondero_Icono-DE.webp"] 
     },
      {
       "id": "Italians",
@@ -286,7 +286,7 @@
       "tecnologiasUnicas": ["Escudo pavés: Los arqueros a pie y los condotieros obtienen +1 de armadura normal / +1 antiperforación.", "Ruta de la Seda: Las unidades que transportan suministros cuestan un 50 % menos."],
       "bonoEquipo": ["Condotiero disponible en cuarteles en la Edad Imperial"],
       "imagen": "https://fumage.netlify.app/img/civ/italians.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/GenoeseCrossbowman.eefaaea6.png","https://app.aoe2companion.com/static/media/Condottiero.4e4cf58d.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Genoves_BallesteroIcono-DE.webp","https://fumage.netlify.app/img/unidades/Condotiero-Icono-DE.webp"] 
     },
      {
       "id": "Japanese",
@@ -297,7 +297,7 @@
       "tecnologiasUnicas": ["Yasama: Refuerza tus torres al disparar flechas adicionales.", "Kataparuto: Los lanzapiedras disparan y se arman y desarman más rápido."],
       "bonoEquipo": ["Galeras obtienen +50 % línea de visión"],
       "imagen": "https://fumage.netlify.app/img/civ/japanese.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Samurai.65c16527.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Samurai-Icono-DE.webp"] 
     },
      {
       "id": "Khmer",
@@ -308,7 +308,7 @@
       "tecnologiasUnicas": ["Colmillos de acero: Los elefantes de combate obtienen +3 de ataque.", "Ballesta doble: Los elefantes y escorpiones balistas disparan dos proyectiles."],
       "bonoEquipo": ["Los escorpiones cuentan con +1 en alcance"],
       "imagen": "https://fumage.netlify.app/img/civ/khmer.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/BallistaElephant.46af1df8.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Elefante_ballesta_icono-DE.webp"] 
     },
      {
       "id": "Lithuanians",
@@ -319,7 +319,7 @@
       "tecnologiasUnicas": ["Fuertes en las colinas: Los centros urbanos reciben +3 de alcance.", "Escudos rectangulares: Piqueros y hostigadores: +2 de armadura antiperforación."],
       "bonoEquipo": ["Los monasterios funcionan un 20 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/lithuanians.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/Leitis.59922b05.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Leitisicon.webp"] 
     },
      {
       "id": "Magyars",
@@ -330,7 +330,7 @@
       "tecnologiasUnicas": ["Ejército corviniano: Los huszár magiares no cuestan oro.", "Arco recurvo: Los arqueros a caballo obtienen +1 de alcance y +1 de ataque."],
       "bonoEquipo": ["Arqueros a pie tienen +2 CDV"],
       "imagen": "https://fumage.netlify.app/img/civ/magyars.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/MagyarHuszar.5e9b75b2.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Huszar_Magiar_Icono-DE.webp"] 
     },
      {
       "id": "Malay",
@@ -341,7 +341,7 @@
       "tecnologiasUnicas": ["Talasocracia: Mejora tus muelles a puertos, que disparan flechas.", "Leva en masa: Milicia y subsiguientes dejan de costar oro, y pasan a costar más comida"],
       "bonoEquipo": ["Los muelles obtienen +100% de CDV"],
       "imagen": "https://fumage.netlify.app/img/civ/malay.png",
-      "imgunidad": ["https://app.aoe2companion.com/static/media/KarambitWarrior.347397f9.png"] 
+      "imgunidad": ["https://fumage.netlify.app/img/unidades/Karambit_icono-DE.webp"] 
     },
      {
       "id": "Malians",
@@ -352,7 +352,7 @@
       "tecnologiasUnicas": ["Gran asamblea: Los centros urbano disparan flechas.", "Farimba: La caballería obtiene +5 de ataque."],
       "bonoEquipo": ["Las universidades funcionan un 80 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/malians.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Gbeto.542ff833.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Gbeto.542ff833.png"] 
     },
      {
       "id": "Mayans",
@@ -363,7 +363,7 @@
       "tecnologiasUnicas": ["Lanzadores de hul'che: Mejora a tus hostigadores para que lancen un segundo proyectil.", "El Dorado: Los guerreros águila obtienen +40 puntos de resistencia."],
       "bonoEquipo": ["Muros cuestan un 50 % menos"],
       "imagen": "https://fumage.netlify.app/img/civ/mayans.png",
-      "imgunidad":["https://app.aoe2companion.com/assets/app/assets/units/PlumedArcher.22401082b444e3413272a0f6169a043b.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Arquero_Plumas_Icono-DE.webp"] 
     },
      {
       "id": "Mongols",
@@ -374,7 +374,7 @@
       "tecnologiasUnicas": ["Nómadas: Las casas no pierden su capacidad de población al ser destruidas.", "Instrucción militar: Las unidades del taller de maquinaria de asedio se mueven un 50 % más rápido."],
       "bonoEquipo": ["Caballería de exploración, caballería ligera, húsar +2 LDV"],
       "imagen": "https://fumage.netlify.app/img/civ/mongols.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Mangudai.96db73fd.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Mangudai_Icono-DE.webp"] 
     },
      {
       "id": "Persians",
@@ -385,18 +385,18 @@
       "tecnologiasUnicas": ["Kamandaran: Los arqueros y subsiguientes dejan de costar oro, y pasan a costar más madera.", "Ciudadelas: Los castillos diparan balas (+4 de ataque,+3 contra arietes,+3 infanteria) y 25% menos de daño adicionales."],
       "bonoEquipo": ["Caballeros +2 de ataque contra arqueros"],
       "imagen": "https://fumage.netlify.app/img/civ/persians.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/WarElephant.18d8561f.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/ElefanteGuerra-Icono-DE.webp"] 
     },
      {
       "id": "Poles",
       "nombre": "Poles",
       "especialidad": "Civilización de caballería",
      "bonus": ["Los aldeanos regeneran 5 PR por minuto en la Edad Alta Media, 10 en la Edad Feudal, 15 en la Edad de los Castillos y 20 en la Edad Imperial", "El folwark sustituye al molino","Los mineros de piedra también generan oro"],
-      "unidadUnica": ["Martillo de guerra","Húsar alado"],
+      "unidadUnica": ["Martillo de guerra"],
       "tecnologiasUnicas": ["Privilegios de Szlachta: Los caballeros cuestan un 60 % menos de oro.", "Legado lequítico: La caballería ligera arrasa a su paso."],
       "bonoEquipo": ["La caballería de exploración, la caballería ligera y los húsares cuentan con +1 de ataque contra los arqueros"],
       "imagen": "https://fumage.netlify.app/img/civ/poles.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Obuch.817e6981.png","https://app.aoe2companion.com/static/media/WingedHussar.c7a59c52.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Obuch_Icono.webp"] 
     },
      {
       "id": "Portuguese",
@@ -407,7 +407,7 @@
       "tecnologiasUnicas": ["Carracas: Los barcos reciben +1 de armadura normal / +1 antiperforación.", "Arcabuz: Balística para unidades de pólvora."],
       "bonoEquipo": ["Las tecnologías se desarrollan un 25 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/portuguese.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/OrganGun.02452f24.png","https://app.aoe2companion.com/static/media/Caravel.d835884c.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Canon_salvas_aoe2DE.webp","https://fumage.netlify.app/img/unidades/Carabela_Icono-DE.webp"] 
     },
      {
       "id": "Romans",
@@ -418,7 +418,7 @@
       "tecnologiasUnicas": ["Balistas: Escorpión y Línea de Galera disparan 33% más rápido.", "Comitatenses: Línea de Milicia, línea de Jinete y Centuriones se crean un 50% más rápido y reciben ataque de carga."],
       "bonoEquipo": ["Línea de Escorpión alcance mínimo reducido a 1"],
       "imagen": "https://fumage.netlify.app/img/civ/romans.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Centurion.b854d617.png","https://app.aoe2companion.com/static/media/Legionary.41adffc6.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Centurion-Icono.webp","https://fumage.netlify.app/img/unidades/Legionario-Icono.webp"] 
     },
      {
       "id": "Saracens",
@@ -429,7 +429,7 @@
       "tecnologiasUnicas": ["Fanatismo: Las unidades a camello obtienen +20 puntos de resistencia.", "Contrapesos: Lanzapiedras y mangana: +15 % de ataque."],
       "bonoEquipo": ["Arqueros a pie: +2 de ataque contra edificios"],
       "imagen": "https://fumage.netlify.app/img/civ/saracens.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Mameluke.56990598.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Mameluco-Icono-DE.webp"] 
     },
      {
       "id": "Sicilians",
@@ -440,7 +440,7 @@
       "tecnologiasUnicas": ["Primera cruzada: Cada centro urbano (máximo 5) genera un lote único de 7 serjeants. Las unidades son más resistentes a la conversión.", "Cota de malla: Los caballeros reciben +1 de armadura normal / +2 antiperforación."],
       "bonoEquipo": ["El primer barco de transporte cuesta un 50 % menos y tiene +5 de CDV"],
       "imagen": "https://fumage.netlify.app/img/civ/sicilians.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Serjeant.d92188ce.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Sargento_Icono.webp"] 
     },
      {
       "id": "Tatars",
@@ -451,7 +451,7 @@
       "tecnologiasUnicas": ["Armadura de seda: La caballería ligera, los lanceros esteparios y los arqueros a caballo reciben +1 de armadura normal / +1 antiperforación.", "Tácticas de asedio timúridas: Los lanzapiedras reciben +2 de alcance. Habilita los camellos llameantes."],
       "bonoEquipo": ["Arqueros a caballo: +2 CDV"],
       "imagen": "https://fumage.netlify.app/img/civ/tatars.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Keshik.95fd7f92.png","https://app.aoe2companion.com/static/media/FlamingCamel.acefbd2c.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Keshikicon.webp","https://fumage.netlify.app/img/unidades/Camello_llameante_icono.webp"] 
     },
      {
       "id": "Teutons",
@@ -462,7 +462,7 @@
       "tecnologiasUnicas": ["Blindaje: Aumenta la armadura de todas las armas de asedio para que sean más resistentes al ataque cuerpo a cuerpo.", "Almenas: Los castillos obtienen +3 de alcance; la infantería acuartelada dispara flechas."],
       "bonoEquipo": ["Unidades son más resistentes a la conversión"],
       "imagen": "https://fumage.netlify.app/img/civ/teutons.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/TeutonicKnight.86409d51.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Caballero_Orden_Teutonica_Icono-DE.webp"] 
     },
      {
       "id": "Turks",
@@ -473,7 +473,7 @@
       "tecnologiasUnicas": ["Sipahi: Los arqueros a caballo obtienen +20 puntos de resistencia.", "Artillería: Las torres de bombardeo, los cañones de asedio y galeones artillados obtienen +2 de alcance."],
       "bonoEquipo": ["Unidades de pólvora: creadas un 25 % más rápido"],
       "imagen": "https://fumage.netlify.app/img/civ/turks.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Janissary.632f43ef.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Jenizaro_Icono-DE.webp"] 
     },
      {
       "id": "Vietnamese",
@@ -484,7 +484,7 @@
       "tecnologiasUnicas": ["Chatras: Los elefantes de combate obtienen +100 PR.", "Papel moneda: Además de madera, los leñadores generan oro gradualmente."],
       "bonoEquipo": ["Mejora de hostigador imperial disponible en la Edad Imperial"],
       "imagen": "https://fumage.netlify.app/img/civ/vietnamese.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/RattanArcher.11e462a8.png","https://app.aoe2companion.com/static/media/ImperialSkirmisher.75ca4ec2.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Arquero_Ratan_icono-DE.webp","https://fumage.netlify.app/img/unidades/Guerrillero_Imperial-DE.webp"] 
     },
      {
       "id": "Vikings",
@@ -495,7 +495,7 @@
       "tecnologiasUnicas": ["Hérsires: La infantería inflige daño adicional a las unidades de caballería.", "Trance frenético: Los berserkers se regeneran más rápido."],
       "bonoEquipo": ["Los muelles cuestan -15%"],
       "imagen": "https://fumage.netlify.app/img/civ/vikings.png",
-      "imgunidad":["https://app.aoe2companion.com/static/media/Berserk.f9954d15.png","https://app.aoe2companion.com/static/media/Longboat.05d017a1.png"] 
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Berserk_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Barco_Dragon_Icono-DE.webp"] 
     }
   ]
   
