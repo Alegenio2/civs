@@ -8,7 +8,7 @@
       "tecnologiasUnicas": ["Flota de cilicia: Buque de demolición +20% radio de explosión; la línea de Galera de guerra y Dromon +1 de rango", "Relicarios: Infantería (excepto la línea de Piquero) +30 puntos de vida; Sacerdote Guerrero +100% velocidad de curación"],
       "bonoEquipo": ["La infantería tiene +2 línea de visión."],
       "imagen": "https://github.com/Alegenio2/civs/blob/main/civs/armenians.png",
-      "imgunidad": ["https://github.com/Alegenio2/civs/blob/main/unidades/AoE2_ArqueroCompuesto.png","https://github.com/Alegenio2/civs/blob/main/unidades/AoE2_SacerdoteGuerrero.webp"] 
+      "imgunidad": ["https://fumage.netlify.app/img/civs/AoE2_ArqueroCompuesto.webp","https://github.com/Alegenio2/civs/blob/main/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
     {
       "id": "Aztecs",
