@@ -18,7 +18,7 @@
       "bonus": ["Aldeanos cargan 3 unidades más","Unidades militares se crean un 11 % más rápido", "Monjes obtienen +5 ptos. resist. por cada tecnología desarrollada en el monasterio", "Comienzan con +50 unidades de oro"],  
       "tecnologiasUnicas": ["Átlatl: Los hostigadores obtienen +1 de ataque y +1 de alcance", "Guerras Floridas: La infantería obtiene +4 de ataque"],
       "bonoEquipo": ["Reliquias generan un 33 % más de oro"],
-      "imagen": "https://app.aoe2companion.com/static/media/aztecs.361df94f.png",
+      "imagen": "https://fumage.netlify.app/img/civs/aztecs-right.apng",
       "imgunidad": ["https://app.aoe2companion.com/static/media/JaguarWarrior.f5940775.png"] 
     },
     {
