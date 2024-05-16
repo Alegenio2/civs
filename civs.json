@@ -389,7 +389,7 @@
     },
      {
       "id": "Poles",
-      "nombre": "Poles",
+      "nombre": "Polacos",
       "especialidad": "Civilización de caballería",
      "bonus": ["Los aldeanos regeneran 5 PR por minuto en la Edad Alta Media, 10 en la Edad Feudal, 15 en la Edad de los Castillos y 20 en la Edad Imperial", "El folwark sustituye al molino","Los mineros de piedra también generan oro"],
       "unidadUnica": ["Martillo de guerra"],
