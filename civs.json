@@ -246,7 +246,7 @@
     },
      {
       "id": "Hindustanis",
-      "nombre": "Indostaníes",
+      "nombre": "Indostanos",
       "especialidad": "Civilización de camellos y pólvoraa",
      "bonus": ["Los aldeanos cuestan -8/-13/-18/-23% alimento en la Alta Edad Media/Feudal/Castillos/Imperial.", "Unidades de pólvora: +1/+1P de armadura","Los camellos atacan un 20% más rápido.","Pueden construir caravasares en la Edad Imperial"],
       "unidadUnica": ["Ghulam", "Jinete de camello imperial"],
