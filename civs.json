@@ -23,7 +23,7 @@
     },
     {
       "id": "Bengalis",
-      "nombre": "Bengalis",
+      "nombre": "Bengalies",
       "especialidad": "Civilización naval y de elefantes",
       "unidadUnica": ["Ratha"],
        "bonus": ["Las unidades en elefante reciben un 25 % menos de daño adicional y son más resistentes a la conversión","Los centros urbanos generan 2 aldeanos cuando se avanza a la siguiente edad","La caballería cuenta con +2 de ataque contra los hostigadores","Los barcos regeneran 15 PR por minuto","Los monjes obtienen +3/+3P de armadura"],
