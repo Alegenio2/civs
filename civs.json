@@ -72,7 +72,7 @@
       "bonus": ["Las herrerías y las universidades cuestan 100 menos de madera", "Química y artillero de mano disponibles en la Edad de los Castillos", "La línea de lanceros inflige un 25 % más de daño", "El fervor y la santidad afectan a los aldeanos","Las tecnologías de los campamentos mineros son gratuitas"],  
       "unidadUnica": ["Carro de guerra husita","Obús"],
       "tecnologiasUnicas": ["Tácticas de fuerte de carretas: Las unidades con pólvora se mueven un 15 % más rápido.", "Reformas husitas: El coste de oro de los monjes y de las tecnologías del monasterio se reemplaza por comida."],
-       "bonoEquipo": ["Cada muelle proporciona +5 de población"],  
+       "bonoEquipo": ["Mercados trabajan un 80% más rápido."],  
       "imagen": "https://fumage.netlify.app/img/civ/bohemians.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/Carreta_Husita_Icono.webp","https://fumage.netlify.app/img/unidades/Houfnice_Icono.webp"]   
     },
