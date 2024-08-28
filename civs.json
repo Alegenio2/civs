@@ -150,7 +150,7 @@
       "bonus": ["Se puede construir un centro urbano adicional en la Edad Feudal", "Talleres de maquinaria de asedio y ariete disponibles en la Edad Feudal; mejora de arietes cubiertos disponible en Ed. de los Castillos", "Las galerías de tiro y los establos cuestan 75 menos de madera", "Caballería: 5 % más rápida en cada edad (desde la Edad Feudal)"],  
       "unidadUnica": ["Kipchak"],
       "tecnologiasUnicas": ["Ganadería de la estepa: Caballería ligera, lanceros esteparios y arqueros montados: creación un 100 % más rápida.", "Mercenarios cumanos: Los miembros del equipo pueden crear 5 kipchaks de élite gratis por castillo."],
-      "bonoEquipo": ["Granjas +10 % de comida"],  
+      "bonoEquipo": ["Las Empalizadas tienen +33% de puntos de resistencia."],  
       "imagen": "https://fumage.netlify.app/img/civ/cumans.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/Kipchakicon.webp"]   
     },
