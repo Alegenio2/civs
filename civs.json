@@ -100,7 +100,7 @@
     },
      {
       "id": "Burgundians",
-      "nombre": "Burgundians",
+      "nombre": "Borgoñeses",
       "especialidad": "Civilización de caballería",
      "bonus": ["Mejoras económicas disponibles una edad antes y por un 33 % menos de comida", "Las tecnologías de los establos cuestan un 50 % menos", "Mejora a caballeros disponible en la Edad de los Castillos", "Unidades de pólvora: 25 % más de ataque"],
       "unidadUnica": ["Costiller","Milicia flamenca"],
