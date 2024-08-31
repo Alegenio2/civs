@@ -240,7 +240,7 @@
      "bonus": ["Comienzan el juego con un Explorador a Camello.", "Comienzan con 2 Arbustos de bayas bajo el Centro Urbano.", "Pueden guarecer los Molinos con ganado para producir comida","Las unidades montadas hacen un +20%/+30%/+40% daño adicional en la Edad Fedual/Castillos/Imperial.","Pueden guarecer los Muelles con Pesqueros."],
       "unidadUnica": ["Lanzador Chakram","Jinete Shrivamsha: Caballería ligera que puede esquivar proyectiles."],
       "tecnologiasUnicas": ["Chatrias: Las unidades militares cuestan -25% comida", "Guardias fronterizos: Jinetes a camello y Arqueros en Elefante obtienen +4 de armadura cuerpo a cuerpo."],
-      "bonoEquipo": ["Cuarteles funcionan un 20 % más rápido"],
+      "bonoEquipo": ["Unidades a camello y Unidades en elefante se crean un 25% más rápido."],
       "imagen": "https://fumage.netlify.app/img/civ/gurjaras.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/Lanzador_Chakram_Icono.webp","https://fumage.netlify.app/img/unidades/Jinete_Shrivamsha_Icono.webp"] 
     },
