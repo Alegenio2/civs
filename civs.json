@@ -33,7 +33,7 @@
      "imgunidad": ["https://fumage.netlify.app/img/unidades/Ratha_Icono.webp"] 
     },
     {
-      "id": "Berebers",
+      "id": "Berbers",
       "nombre": "Bereberes",
        "especialidad": "Civilización naval y de caballería",
       "bonus": ["Aldeanos se mueven un 5 % más rápido en Edad Media y 10% en Feudal", "Unidades creadas en establos cuestan un -15 % en Ed. Castillos, -20 % en Ed. Imperial", "Barcos se mueven un 10 % más rápido"],  
