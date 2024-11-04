@@ -9,7 +9,7 @@ permissions:
   contents: write # Permiso para permitir push al repositorio
 
 jobs:
-  updateTournamentData:
+  updateCategoria1:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -24,12 +24,12 @@ jobs:
           -d "api_key=$CHALLONGE_API_KEY" \
           -d "include_participants=1" \
           -d "include_matches=1" \
-          > tournamentData.json
+          > categoria1.json
 
       - name: Commit and Push changes
         run: |
           git config --global user.email "alegenio2@gmail.com" # Usa tu email aquí
           git config --global user.name "Alegenio2" # Usa tu nombre de usuario aquí
           git add categoria1.json
-          git commit -m "Update tournament data"
+          git commit -m "Update Categoria1"
           git push
