@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *' # Ejecuta cada 6 horas
   workflow_dispatch: # Permite ejecutar manualmente
 
+permissions:
+  contents: write # Permiso para permitir push al repositorio
+
 jobs:
   fetch_feed:
     runs-on: ubuntu-latest
