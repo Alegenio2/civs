@@ -39,7 +39,7 @@
       "id": "Wei",
       "nombre": "Wei",
       "especialidad": "Civilización de caballería",
-      "unidadUnica": [Caballería tigresa: Caballería exclusiva de los Wei que obtiene PR y ataque al derrotar ejércitos enemigos. Extraordinariamente fuerte contra soldados a distancia. Débil contra líneas de lanceros.","Saqueador xianbei: Arquero montado exclusivo de los Wei con un ataque a distancia cargado. Fuerte contra la infantería. Débil contra los guerrilleros y los jinetes de camellos.", "Heroe: Cao Cao, aumenta la velocidad de ataque de las unidades cercanas."],
+      "unidadUnica": ["Caballería tigresa: Caballería exclusiva de los Wei que obtiene PR y ataque al derrotar ejércitos enemigos. Extraordinariamente fuerte contra soldados a distancia. Débil contra líneas de lanceros.","Saqueador xianbei: Arquero montado exclusivo de los Wei con un ataque a distancia cargado. Fuerte contra la infantería. Débil contra los guerrilleros y los jinetes de camellos.", "Heroe: Cao Cao, aumenta la velocidad de ataque de las unidades cercanas."],
       "bonus": ["Recibe un aldeano gratis por cada molino, campamento maderero y campamento minero investigado","La caballería de Hei Guang y el saqueador xianbei obtienen +15/30 % PR en la Edad de los Castillos o Imperial.", "Los mangoneles y las unidades de Lou Chuan cuestan un 25 % menos."],  
       "tecnologiasUnicas": ["Tuntian: Los soldados producen alimentos de forma pasiva.", "Armadura de Ming Guang: La caballería obtiene +4 de armadura cuerpo a cuerpo."],
       "bonoEquipo": ["La caballería obtiene +2 de ataque contra armas de asedio."],
