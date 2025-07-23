@@ -7,7 +7,7 @@
       "bonus": ["La carne de los animales que caces y del ganado no se descompone","Las unidades montadas y los lanceros incendiarios atacan un 20 % más rápido a partir de la Edad Feudal.", "Los ingenieros de asedio están disponibles en la Edad de los Castillos", "Las mejoras de asedio y fortificación cuestan un 75 % menos de madera y se investigan un 100 % más rápido.","Las unidades reciben un 50 % menos de daño por fuego amigo."],  
       "tecnologiasUnicas": ["Bastiones fortificados: Las fortificaciones regeneran 500 PR por minuto.", "Bombas trueno: Los carros de cohetes, los granaderos y las unidades de Lou Chuan las detonan cuando los derrotan, los proyectiles producen explosiones adicionales."],
       "bonoEquipo": ["Las unidades de pólvora obtienen +2 de campo de visión."],
-      "imagen": "https://fumage.netlify.app/img/civ/armenians.png",
+      "imagen": "https://fumage.netlify.app/img/civ/jurchens.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/AoE2_ArqueroCompuesto.webp","https://fumage.netlify.app/img/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
 
@@ -19,7 +19,7 @@
       "bonus": ["Las pasturas reemplazan a las granjas","Los pastores y los vaqueros generan un 10 % más de comida.", "Los efectos de mejora de los ataques cuerpo a cuerpo se duplican", "Los guerrilleros, lanceros y caballería de exploración entrenan y se mejoran un 25 % más rápido.","Mejora del arquero de caballería pesada disponible en la Edad de los Castillos y cuesta un 50 % menos."],  
       "tecnologiasUnicas": ["Armadura laminada: La infantería y los guerrilleros devuelven un 25 % de daño cuerpo a cuerpo al atacante.", "Caballería ordo: La caballería regenera PR en combate."],
       "bonoEquipo": ["La infantería tiene +2 línea de visión."],
-      "imagen": "https://fumage.netlify.app/img/civ/armenians.png",
+      "imagen": "https://fumage.netlify.app/img/civ/khitans.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/AoE2_ArqueroCompuesto.webp","https://fumage.netlify.app/img/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
 
@@ -31,7 +31,7 @@
       "bonus": ["Los leñadores generan comida adicional, además de madera.","Las tecnologías de los arqueros de la galería de tiro con arco y del herrero cuestan un 25 % menos", "Las armas de asedio y los barcos de guerra de asedio se mueven un 10 % o 15 % más rápido en la Edad de los Castillos o la Edad Imperial"],  
       "tecnologiasUnicas": ["Arsenal de la serpiente enroscada: Los lanceros y los guardias de la pluma blanca obtienen PR adicionales cuando están cerca los unos de los otros.", "Cargador: La línea de arqueros, los carros de guerra y las unidades de Lou Chuan disparan más proyectiles."],
       "bonoEquipo": ["Los arqueros a pie obtienen +2 de campo de visión."],
-      "imagen": "https://fumage.netlify.app/img/civ/armenians.png",
+      "imagen": "https://fumage.netlify.app/img/civ/shu.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/AoE2_ArqueroCompuesto.webp","https://fumage.netlify.app/img/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
 
@@ -43,7 +43,7 @@
       "bonus": ["Recibe un aldeano gratis por cada molino, campamento maderero y campamento minero investigado","La caballería de Hei Guang y el saqueador xianbei obtienen +15/30 % PR en la Edad de los Castillos o Imperial.", "Los mangoneles y las unidades de Lou Chuan cuestan un 25 % menos."],  
       "tecnologiasUnicas": ["Tuntian: Los soldados producen alimentos de forma pasiva.", "Armadura de Ming Guang: La caballería obtiene +4 de armadura cuerpo a cuerpo."],
       "bonoEquipo": ["La caballería obtiene +2 de ataque contra armas de asedio."],
-      "imagen": "https://fumage.netlify.app/img/civ/armenians.png",
+      "imagen": "https://fumage.netlify.app/img/civ/wei.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/AoE2_ArqueroCompuesto.webp","https://fumage.netlify.app/img/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
  {
@@ -54,7 +54,7 @@
       "bonus": ["Los muelles y los edificios de producción militar proporcionan +65 de comida","La infantería se regenera 10/20/30 PR por minuto en la Edad Feudal, de los Castillos o Imperial", "Los espadachines de Jian y la caballería de Hei Guang obtienen +2 de ataque en la Edad Imperia", "Carenado y Dique seco están disponibles una edad antes, y su coste y tiempo de investigación se reducen un 75 %."],  
       "tecnologiasUnicas": ["Tácticas de los Acantilados Rojos: Los barcos de demolición y los arqueros de fuego infligen daño de fuego a los barcos y edificios", "Tigre sentado: Los mangoneles y los trebuchets de Lou Chuan disparan proyectiles adicionales."],
       "bonoEquipo": ["Las casas se construyen un +100 % más rápido."],
-      "imagen": "https://fumage.netlify.app/img/civ/armenians.png",
+      "imagen": "https://fumage.netlify.app/img/civ/wu.png",
       "imgunidad": ["https://fumage.netlify.app/img/unidades/AoE2_ArqueroCompuesto.webp","https://fumage.netlify.app/img/unidades/AoE2_SacerdoteGuerrero.webp"] 
     },
     {
