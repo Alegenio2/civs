@@ -188,7 +188,14 @@
         {
           "jugador1Id": "662427737138528308",
           "jugador2Id": "846515810381987860",
-          "resultado": null
+          "resultado": {
+            "846515810381987860": 1,
+            "662427737138528308": 2,
+            "draftmapas": "https://aoe2cm.net/draft/XVMHu",
+            "draftcivis": "https://aoe2cm.net/draft/ZfbeM",
+            "rec": "https://cdn.discordapp.com/ephemeral-attachments/1390796719226359932/1401034209191268392/el_cuco_vs_kakaidolo.rar?ex=688ece49&is=688d7cc9&hm=c4c0bc7bf3b887a8b50eaf2adf7a56ec7a42ea4b79825928f9a17527aa2e921a&",
+            "fecha": "2025-08-01"
+          }
         },
         {
           "jugador1Id": "580229190645972994",
@@ -198,24 +205,7 @@
         {
           "jugador1Id": "582941701518262412",
           "jugador2Id": "465307831583637514",
-          "resultado": {
-            "582941701518262412": 2,
-            "465307831583637514": 0,
-            "draftmapas": "https://aoe2cm.net/draft/rzrAl",
-            "draftcivis": "https://aoe2cm.net/draft/Fshcz",
-            "rec": "https://cdn.discordapp.com/ephemeral-attachments/1390796719226359932/1399561304192061600/Div_D_-_Fecha_2_-_Matixxx_VS_Rogelio_III.zip?ex=68897289&is=68882109&hm=30a9f3939342c8581fbd8d00f6e0efa84bf62dfb74f05d72e3be97ebb27b277a&",
-            "fecha": "2025-07-27"
-          },
-          "id": 1753315291171,
-          "fecha": "27-07-2025",
-          "diaSemana": "Domingo",
-          "horario": "20:00",
-          "gmt": "3",
-          "timestamp": "2025-07-24T00:01:31.171Z",
-          "coordinadoPor": {
-            "id": "465307831583637514",
-            "nombre": "ignatiusj.reilly"
-          }
+          "resultado": null
         },
         {
           "jugador1Id": "524738089252552716",
