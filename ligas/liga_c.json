@@ -335,7 +335,11 @@
         {
           "jugador1Id": "326046458673365002",
           "jugador2Id": "750789709252395108",
-          "resultado": null,
+          "resultado": {
+            "750789709252395108": 1,
+            "326046458673365002": 1,
+            "fecha": "2025-09-15"
+          },
           "id": 1753102802017,
           "fecha": "25/07/2025",
           "diaSemana": "Viernes",
@@ -1096,7 +1100,11 @@
         {
           "jugador1Id": "724668688145580062",
           "jugador2Id": "1244725529093869687",
-          "resultado": null
+          "resultado": {
+            "724668688145580062": 2,
+            "1244725529093869687": 0,
+            "fecha": "2025-09-24"
+          }
         },
         {
           "jugador1Id": "689907393001291884",
@@ -1113,7 +1121,11 @@
         {
           "jugador1Id": "442189398667296788",
           "jugador2Id": "755853346149105786",
-          "resultado": null
+          "resultado": {
+            "442189398667296788": 1,
+            "755853346149105786": 1,
+            "fecha": "2025-09-24"
+          }
         },
         {
           "jugador1Id": "335286995486244867",
@@ -1130,14 +1142,31 @@
       "ronda": "Semifinal",
       "partidos": [
         {
-          "jugador1Id": "1A",
-          "jugador2Id": "2B",
+          "jugador1Id": "709904591453683766",
+          "jugador2Id": "724668688145580062",
           "resultado": null
         },
         {
-          "jugador1Id": "1B",
-          "jugador2Id": "2A",
-          "resultado": null
+          "jugador1Id": "689907393001291884",
+          "jugador2Id": "135113382217908224",
+          "resultado": {
+            "135113382217908224": 3,
+            "689907393001291884": 0,
+            "draftmapas": "https://aoe2cm.net/draft/yNUlW",
+            "draftcivis": "https://aoe2cm.net/draft/RPFwr",
+            "rec": "https://cdn.discordapp.com/ephemeral-attachments/1418428656283291829/1418651811274952704/MP_Replay_v101.103.22566.0_2025.09.06_174752_2.zip?ex=68cee5f5&is=68cd9475&hm=88c32c4174ecf0b0f03a0cc1d5a89017a2694650c6f1eff78540c0aaf93009ec&",
+            "fecha": "2025-09-19"
+          },
+          "id": 1758304388070,
+          "fecha": "17-09-2025",
+          "diaSemana": "Miércoles",
+          "horario": "21:30",
+          "gmt": "GMT-3",
+          "timestamp": "2025-09-19T17:53:08.070Z",
+          "coordinadoPor": {
+            "id": "286607198854053890",
+            "nombre": "jabsuy"
+          }
         }
       ]
     },
@@ -1146,7 +1175,7 @@
       "partidos": [
         {
           "jugador1Id": "GanadorSemi1",
-          "jugador2Id": "GanadorSemi2",
+          "jugador2Id": "135113382217908224",
           "resultado": null
         }
       ]
