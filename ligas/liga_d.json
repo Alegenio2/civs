@@ -396,7 +396,11 @@
         {
           "jugador1Id": "662427737138528308",
           "jugador2Id": "524738089252552716",
-          "resultado": null
+          "resultado": {
+            "662427737138528308": 1,
+            "524738089252552716": 1,
+            "fecha": "2025-09-28"
+          }
         },
         {
           "jugador1Id": "425297928610119692",
@@ -446,7 +450,14 @@
         {
           "jugador1Id": "662427737138528308",
           "jugador2Id": "582941701518262412",
-          "resultado": null
+          "resultado": {
+            "582941701518262412": 2,
+            "662427737138528308": 0,
+            "draftmapas": "https://aoe2cm.net/draft/wjlYf",
+            "draftcivis": "https://aoe2cm.net/draft/AuYpu",
+            "rec": "https://cdn.discordapp.com/ephemeral-attachments/1418428656283291829/1418433093941072004/Matixxx_vs_kakaidolo.zip?ex=68ce1a42&is=68ccc8c2&hm=4cbbde66403049cd7f9ba07287e561f231b36cda5264d27e834db7a7d16a3b37&",
+            "fecha": "2025-09-17"
+          }
         },
         {
           "jugador1Id": "524738089252552716",
