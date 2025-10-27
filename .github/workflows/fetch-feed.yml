@@ -2,7 +2,7 @@ name: Fetch Age of Empires Feed
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # Ejecuta cada 6 horas
+    - cron: '0 9 * * *' # Ejecuta cada 6 horas
   workflow_dispatch: # Permite ejecutar manualmente
 
 permissions:
