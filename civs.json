@@ -412,6 +412,17 @@
       "imagen": "https://fumage.netlify.app/img/civ/malians.png",
       "imgunidad":["https://fumage.netlify.app/img/unidades/Gbeto.542ff833.png"] 
     },
+      {
+      "id": "Mapuche",
+      "nombre": "Mapuche",
+      "especialidad": "Civilización de caballería y unidades de contraataque",
+     "bonus": ["Los recolectores generan +20% de comida", "Los asentamientos pueden entrenar lanceros y hostigadores","Infantería, honderos y hostigadores +5/10/15 PV en la Edad Feudal/Castillos/Imperial","Las unidades montadas generan +3 de oro al derrotar unidades militares","Los castillos enemigos se revelan en el mapa"],
+      "unidadUnica": ["Kona","Jinete con boleadoras"],
+      "tecnologiasUnicas": ["Malón: Jinetes con boleadoras, honderos y hostigadores: infligen daño de paso.", "Butalmapu: Las unidades únicas de los castillos de todo el equipo y los jinetes con boleadoras cuestan -15%."],
+      "bonoEquipo": ["El campo de visión de los lanceros y hostigadores aumenta en +2"],
+      "imagen": "https://fumage.netlify.app/img/civ/mapuche.png",
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Kona_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Jinete_con_boleadoras_Icono-DE.webp"] 
+    },
      {
       "id": "Mayans",
       "nombre": "Mayas",
@@ -433,6 +444,17 @@
       "bonoEquipo": ["Caballería de exploración, caballería ligera, húsar +2 LDV"],
       "imagen": "https://fumage.netlify.app/img/civ/mongols.png",
       "imgunidad":["https://fumage.netlify.app/img/unidades/Mangudai_Icono-DE.webp"] 
+    },
+     {
+      "id": "Muisca",
+      "nombre": "Muiscas",
+      "especialidad": "Civilización de arqueros y monjes",
+     "bonus": ["Avanzar a la siguiente Edad cuesta -50% de oro", "Los asentamientos cuestan -25% y curan a las unidades cercanas","Guerreros champi y unidades de tiro con arco: +1/2/3 de armadura cuerpo a cuerpo en Edad Feudal/Castillos/Imperial","Los monjes recuperan la fe +50% más rápido","Caravana y Gremios gratis"],
+      "unidadUnica": ["Guerrero güecha","Guardia del templo"],
+      "tecnologiasUnicas": ["Herbología: Línea de arqueros y guerreros champi: se mueven +15% más rápido.", "Huaracas: Honderos: +1 de alcance y entrenan +25% más rápido."],
+      "bonoEquipo": ["Las fuentes de oro naturales duran +15% más"],
+      "imagen": "https://fumage.netlify.app/img/civ/muiscas.png",
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Guerrero_güecha_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Guardia_del_templo_Icono-DE.webp"] 
     },
      {
       "id": "Persians",
@@ -521,6 +543,17 @@
       "bonoEquipo": ["Unidades son más resistentes a la conversión"],
       "imagen": "https://fumage.netlify.app/img/civ/teutons.png",
       "imgunidad":["https://fumage.netlify.app/img/unidades/Caballero_Orden_Teutonica_Icono-DE.webp"] 
+    },
+          {
+      "id": "Tupi",
+      "nombre": "Tupís",
+      "especialidad": "Civilización de arqueros e infantería",
+     "bonus": ["Comienza con 25 más de cada recurso", "Los aldeanos pueden guarnecerse en asentamientos","Las unidades muertas devuelven un 15 % de su coste","Las mejoras Galería de tiro con arco y Cuarteles cuestan un 50 % menos de comida"],
+      "unidadUnica": ["Arquero de los bosques","Guerrero ibirapema"],
+      "tecnologiasUnicas": ["Caciques: Los guerreros champi y los soldados con honda atacan un 25 % más rápido.", "Curare: Los arqueros a pie y las fortificaciones infligen daño de veneno."],
+      "bonoEquipo": ["Las torres y los castillos proporcionan +10 de espacio de población"],
+      "imagen": "https://fumage.netlify.app/img/civ/tupi.png",
+      "imgunidad":["https://fumage.netlify.app/img/unidades/Arquero_de_los_bosques_Icono-DE.webp","https://fumage.netlify.app/img/unidades/Guerrero_ibirapema_Icono-DE.webp"] 
     },
      {
       "id": "Turks",
